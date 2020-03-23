@@ -1,0 +1,932 @@
+index,Name,City,Latitude,Longitude,Category,Address,Country,Country2,City2,Query
+0,Deutschakademie,Hamburg,53.55112447729002,10.000901554590373,Language School,Gerhofstraße 32,Deutschland,Germany,Hamburg,school
+0,Ludwig Fresenius Schulen,Hamburg,53.55252987,10.00210071,School,Lilienstraße 5-9,Deutschland,Germany,Hamburg,school
+0,BAZ Berufliches Ausbildungszentrum für Gesundheit & Karriere e.K,Hamburg,53.5501271,9.994287699999973,School,Mönckebergstr. 31,Deutschland,Germany,Hamburg,school
+0,ASK Academy Schwarzkopf,Hamburg,53.554175137954864,9.9912971930742,School,Jungfernstieg 30,Deutschland,Germany,Hamburg,school
+0,Heinrich-Wolgast-Schule,Hamburg,53.55628744866906,10.010895848307095,School,,Deutschland,Germany,Hamburg,school
+0,Joop Van Den Ende Academy,Hamburg,53.54397434124522,9.98664207727401,School,kehrwieder 6,Deutschland,Germany,Hamburg,school
+0,Segelschule Käpt'n Prüsse,Hamburg,53.55943167206691,10.008012959498588,School,An der Alster 47,Deutschland,Germany,Hamburg,school
+0,Brecht-Schule,Hamburg,53.55092754998155,10.01817291450094,School,Norderstrasse 163,Deutschland,Germany,Hamburg,school
+0,COMCAVE.COLLEGE Hamburg,Hamburg,53.5461621,10.0177613,School,Sonninstr. 28,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Mitte,Hamburg,53.550009,9.98031,School,Grossneumarkt 50,Deutschland,Germany,Hamburg,school
+0,Truth Dare Double Dare,Hamburg,53.547224447064124,9.979405403137207,School,Martin-Luther Straße 10,Deutschland,Germany,Hamburg,school
+0,IBB Institut Für Berufliche Bildung,Hamburg,53.548653,10.0225725,School,Hammerbrookstraße 47a,Deutschland,Germany,Hamburg,school
+0,Goethe-Institut Hamburg,Hamburg,53.54969848,10.00831971,Language School,Hühnerposten 1,Deutschland,Germany,Hamburg,school
+0,Colón Language Centre,Hamburg,53.55752428009516,9.989959934153697,Language School,Colonnaden 96,Deutschland,Germany,Hamburg,school
+0,DEKRA Akademie Hamburg (Heidenkampsweg),Hamburg,53.54978999999999,10.0269,School,Heidenkampsweg 44,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Süd,Hamburg,53.5493555,10.0277634,School,Heidenkampsweg 43-45,Deutschland,Germany,Hamburg,school
+0,Berlitz,Hamburg,53.55289132544831,10.004103352280163,Language School,Kurze Mühren 2,Deutschland,Germany,Hamburg,school
+0,Stadtteilschule am hafen standort neustadt,Hamburg,53.553473880372124,9.979750673530061,High School,Neustädter Str. 60,Deutschland,Germany,Hamburg,school
+0,DID Deutsch Institut,Hamburg,53.55744825966369,9.992061393587756,University,Esplanade 6,Deutschland,Germany,Hamburg,school
+0,Gymnasium Klosterschule,Hamburg,53.555418017491796,10.025074205457736,High School,Westphalensweg 7,Deutschland,Germany,Hamburg,school
+0,Texterschmiede,Hamburg,53.54514922172347,10.025730528183686,College Classroom,,Deutschland,Germany,Hamburg,school
+0,"Inkofa Dr. Leibbrand Schulen, Akademien für Kosmetik & med. Fußpflege, Hamburg Bremen Hannover Münster",Hamburg,53.5508414,10.000852699999996,Private School,Mönckebergstr. 11,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer Stubbenhuk,Hamburg,53.54474247,9.98074055,Preschool,Stubbenhuk 9,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer Hammerbrook,Hamburg,53.54779153,10.02344638,Preschool,Hammerbrookstraße 63-65,Deutschland,Germany,Hamburg,school
+0,Alpha Institute Europe GmbH,Hamburg,53.550326,9.987589,Language School,Neuer Wall 71,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer City Süd,Hamburg,53.54424621,10.02128032,Nursery School,Nagelsweg 34,Deutschland,Germany,Hamburg,school
+0,Idiom Sprachschule,Hamburg,53.55744614095561,9.990220501586352,Language School,Müggenkampstr. 77,Deutschland,Germany,Hamburg,school
+0,Wall Street English,Hamburg,53.555615489107794,9.985343387841134,Language School,Valentinskamp 20,Deutschland,Germany,Hamburg,school
+0,Staatliche Handelsschule Berliner Tor (HBT),Hamburg,53.555147389763235,10.023694038391113,Trade School,Bei der Hauptfeuerwache 1,Deutschland,Germany,Hamburg,school
+0,Tandem Language School,Hamburg,53.545473972135746,9.982098210971554,Language School,,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Deutschkurse,Hamburg,53.551445,10.0253844,Language School,Spaldingstr. 218,Deutschland,Germany,Hamburg,school
+0,Volkshochschule BerlinerTor Hamburg,Hamburg,53.5556063841781,10.02399184370556,Language School,,Deutschland,Germany,Hamburg,school
+0,Crisol Sprachschule,Hamburg,53.55137609080111,10.026248989335283,Language School,"Rothenbaumchaussee 148, 20149 Hamburg",Deutschland,Germany,Hamburg,school
+0,Five Elements Consulting and  Training,Hamburg,53.54833356,10.00209634,Adult Education Center,Fischertwiete 2,Deutschland,Germany,Hamburg,school
+0,Segelschule Pieper,Hamburg,53.55814727145766,10.00457527945597,School,Alstertwiete,Deutschland,Germany,Hamburg,school
+0,VLET Kochschule,Hamburg,53.55624066527569,9.983992431775398,Cooking School,Valentinskamp 70,Deutschland,Germany,Hamburg,school
+0,Cardio-Slam GbR,Hamburg,53.56411,9.996578699999986,School,Fontenay-Allee 3,Deutschland,Germany,Hamburg,school
+0,Schlemmerschule,Hamburg,53.55743602,10.02205814,Religious School,Lübeckertordamm 4,Deutschland,Germany,Hamburg,school
+0,Fahrschule Musick,Hamburg,53.56503490399963,9.98386854894456,Driving School,Grindelallee 17,Deutschland,Germany,Hamburg,school
+0,Lana Weber - Beziehungs- und Kommunikationscoach,Hamburg,53.553089,10.009957,Adult Education Center,Steintorweg 2,Deutschland,Germany,Hamburg,school
+0,Ludwig Fresenius Schulen,Hamburg,53.55252987,10.00210071,School,Lilienstraße 5-9,Deutschland,Germany,Hamburg,school
+0,BAZ Berufliches Ausbildungszentrum für Gesundheit & Karriere e.K,Hamburg,53.5501271,9.994287699999973,School,Mönckebergstr. 31,Deutschland,Germany,Hamburg,school
+0,ASK Academy Schwarzkopf,Hamburg,53.554175137954864,9.9912971930742,School,Jungfernstieg 30,Deutschland,Germany,Hamburg,school
+0,Heinrich-Wolgast-Schule,Hamburg,53.55628744866906,10.010895848307095,School,,Deutschland,Germany,Hamburg,school
+0,Joop Van Den Ende Academy,Hamburg,53.54397434124522,9.98664207727401,School,kehrwieder 6,Deutschland,Germany,Hamburg,school
+0,Segelschule Käpt'n Prüsse,Hamburg,53.55943167206691,10.008012959498588,School,An der Alster 47,Deutschland,Germany,Hamburg,school
+0,Brecht-Schule,Hamburg,53.55092754998155,10.01817291450094,School,Norderstrasse 163,Deutschland,Germany,Hamburg,school
+0,COMCAVE.COLLEGE Hamburg,Hamburg,53.5461621,10.0177613,School,Sonninstr. 28,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Mitte,Hamburg,53.550009,9.98031,School,Grossneumarkt 50,Deutschland,Germany,Hamburg,school
+0,Truth Dare Double Dare,Hamburg,53.547224447064124,9.979405403137207,School,Martin-Luther Straße 10,Deutschland,Germany,Hamburg,school
+0,IBB Institut Für Berufliche Bildung,Hamburg,53.548653,10.0225725,School,Hammerbrookstraße 47a,Deutschland,Germany,Hamburg,school
+0,Goethe-Institut Hamburg,Hamburg,53.54969848,10.00831971,Language School,Hühnerposten 1,Deutschland,Germany,Hamburg,school
+0,Colón Language Centre,Hamburg,53.55752428009516,9.989959934153697,Language School,Colonnaden 96,Deutschland,Germany,Hamburg,school
+0,DEKRA Akademie Hamburg (Heidenkampsweg),Hamburg,53.54978999999999,10.0269,School,Heidenkampsweg 44,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Süd,Hamburg,53.5493555,10.0277634,School,Heidenkampsweg 43-45,Deutschland,Germany,Hamburg,school
+0,Berlitz,Hamburg,53.55289132544831,10.004103352280163,Language School,Kurze Mühren 2,Deutschland,Germany,Hamburg,school
+0,Stadtteilschule am hafen standort neustadt,Hamburg,53.553473880372124,9.979750673530061,High School,Neustädter Str. 60,Deutschland,Germany,Hamburg,school
+0,DID Deutsch Institut,Hamburg,53.55744825966369,9.992061393587756,University,Esplanade 6,Deutschland,Germany,Hamburg,school
+0,Gymnasium Klosterschule,Hamburg,53.555418017491796,10.025074205457736,High School,Westphalensweg 7,Deutschland,Germany,Hamburg,school
+0,Texterschmiede,Hamburg,53.54514922172347,10.025730528183686,College Classroom,,Deutschland,Germany,Hamburg,school
+0,"Inkofa Dr. Leibbrand Schulen, Akademien für Kosmetik & med. Fußpflege, Hamburg Bremen Hannover Münster",Hamburg,53.5508414,10.000852699999996,Private School,Mönckebergstr. 11,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer Stubbenhuk,Hamburg,53.54474247,9.98074055,Preschool,Stubbenhuk 9,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer Hammerbrook,Hamburg,53.54779153,10.02344638,Preschool,Hammerbrookstraße 63-65,Deutschland,Germany,Hamburg,school
+0,Alpha Institute Europe GmbH,Hamburg,53.550326,9.987589,Language School,Neuer Wall 71,Deutschland,Germany,Hamburg,school
+0,KiTa kinderzimmer City Süd,Hamburg,53.54424621,10.02128032,Nursery School,Nagelsweg 34,Deutschland,Germany,Hamburg,school
+0,Idiom Sprachschule,Hamburg,53.55744614095561,9.990220501586352,Language School,Müggenkampstr. 77,Deutschland,Germany,Hamburg,school
+0,Wall Street English,Hamburg,53.555615489107794,9.985343387841134,Language School,Valentinskamp 20,Deutschland,Germany,Hamburg,school
+0,Staatliche Handelsschule Berliner Tor (HBT),Hamburg,53.555147389763235,10.023694038391113,Trade School,Bei der Hauptfeuerwache 1,Deutschland,Germany,Hamburg,school
+0,Tandem Language School,Hamburg,53.545473972135746,9.982098210971554,Language School,,Deutschland,Germany,Hamburg,school
+0,WBS TRAINING Hamburg Deutschkurse,Hamburg,53.551445,10.0253844,Language School,Spaldingstr. 218,Deutschland,Germany,Hamburg,school
+0,Volkshochschule BerlinerTor Hamburg,Hamburg,53.5556063841781,10.02399184370556,Language School,,Deutschland,Germany,Hamburg,school
+0,Crisol Sprachschule,Hamburg,53.55137609080111,10.026248989335283,Language School,"Rothenbaumchaussee 148, 20149 Hamburg",Deutschland,Germany,Hamburg,school
+0,Five Elements Consulting and  Training,Hamburg,53.54833356,10.00209634,Adult Education Center,Fischertwiete 2,Deutschland,Germany,Hamburg,school
+0,Segelschule Pieper,Hamburg,53.55814727145766,10.00457527945597,School,Alstertwiete,Deutschland,Germany,Hamburg,school
+0,VLET Kochschule,Hamburg,53.55624066527569,9.983992431775398,Cooking School,Valentinskamp 70,Deutschland,Germany,Hamburg,school
+0,Cardio-Slam GbR,Hamburg,53.56411,9.996578699999986,School,Fontenay-Allee 3,Deutschland,Germany,Hamburg,school
+0,Schlemmerschule,Hamburg,53.55743602,10.02205814,Religious School,Lübeckertordamm 4,Deutschland,Germany,Hamburg,school
+0,Fahrschule Musick,Hamburg,53.56503490399963,9.98386854894456,Driving School,Grindelallee 17,Deutschland,Germany,Hamburg,school
+0,Lana Weber - Beziehungs- und Kommunikationscoach,Hamburg,53.553089,10.009957,Adult Education Center,Steintorweg 2,Deutschland,Germany,Hamburg,school
+0,Frankfurt School of Finance & Management,Hamburg,53.54585387608286,10.003330707550049,University,Ericusspitze 2-4,Deutschland,Germany,Hamburg,university
+0,DID Deutsch Institut,Hamburg,53.55744825966369,9.992061393587756,University,Esplanade 6,Deutschland,Germany,Hamburg,university
+0,Kühne Logistics University,Hamburg,53.541339082717585,9.994220441666416,University,Großer Grasbrook 17,Deutschland,Germany,Hamburg,university
+0,The KLU,Hamburg,53.540501689508176,9.993923099700059,University,,Deutschland,Germany,Hamburg,university
+0,HafenCity Universität,Hamburg,53.54016490492321,10.004626112393275,University,Überseeallee 16,Deutschland,Germany,Hamburg,university
+0,Bucerius Law School - Hochschule für Rechtswissenschaft,Hamburg,53.55955993228208,9.983624927604412,University,Jungiusstr. 6,Deutschland,Germany,Hamburg,university
+0,Department Physik,Hamburg,53.55861081319495,9.981913346359587,University,,Deutschland,Germany,Hamburg,university
+0,Hochschule für angewandte Wissenschaften (HAW),Hamburg,53.556813607884216,10.022501199660626,University,Berliner Tor 5,Deutschland,Germany,Hamburg,university
+0,Fresenius - University of Applied Sciences,Hamburg,53.567047137039864,10.000390006854579,University,Rabenstrasse 1,Deutschland,Germany,Hamburg,university
+0,Hamburg School Of Business Administration,Hamburg,53.55015870086731,9.989719512910513,College Academic Building,Adolphplatz,Deutschland,Germany,Hamburg,university
+0,Mensa Studierendenhaus,Hamburg,53.5659520616013,9.986076716079854,College Cafeteria,Von-Melle-Park 2,Deutschland,Germany,Hamburg,university
+0,Hans-Bredow-Institut,Hamburg,53.56526765093199,9.992213596957841,University,Rothenbaumchaussee 36,Deutschland,Germany,Hamburg,university
+0,Asien-Afrika-Institut,Hamburg,53.56267230942796,9.988837161447538,University,Universität Hamburg,Deutschland,Germany,Hamburg,university
+0,DID Deutsch Institut,Hamburg,53.55744825966369,9.992061393587756,University,Esplanade 6,Deutschland,Germany,Hamburg,university
+0,Kühne Logistics University,Hamburg,53.541339082717585,9.994220441666416,University,Großer Grasbrook 17,Deutschland,Germany,Hamburg,university
+0,The KLU,Hamburg,53.540501689508176,9.993923099700059,University,,Deutschland,Germany,Hamburg,university
+0,HafenCity Universität,Hamburg,53.54016490492321,10.004626112393275,University,Überseeallee 16,Deutschland,Germany,Hamburg,university
+0,Bucerius Law School - Hochschule für Rechtswissenschaft,Hamburg,53.55955993228208,9.983624927604412,University,Jungiusstr. 6,Deutschland,Germany,Hamburg,university
+0,Department Physik,Hamburg,53.55861081319495,9.981913346359587,University,,Deutschland,Germany,Hamburg,university
+0,Hochschule für angewandte Wissenschaften (HAW),Hamburg,53.556813607884216,10.022501199660626,University,Berliner Tor 5,Deutschland,Germany,Hamburg,university
+0,Fresenius - University of Applied Sciences,Hamburg,53.567047137039864,10.000390006854579,University,Rabenstrasse 1,Deutschland,Germany,Hamburg,university
+0,Hamburg School Of Business Administration,Hamburg,53.55015870086731,9.989719512910513,College Academic Building,Adolphplatz,Deutschland,Germany,Hamburg,university
+0,Mensa Studierendenhaus,Hamburg,53.5659520616013,9.986076716079854,College Cafeteria,Von-Melle-Park 2,Deutschland,Germany,Hamburg,university
+0,Hans-Bredow-Institut,Hamburg,53.56526765093199,9.992213596957841,University,Rothenbaumchaussee 36,Deutschland,Germany,Hamburg,university
+0,Asien-Afrika-Institut,Hamburg,53.56267230942796,9.988837161447538,University,Universität Hamburg,Deutschland,Germany,Hamburg,university
+0,Asklepios Klinik St. Georg,Hamburg,53.55965674562989,10.016928854910768,Hospital,Lohmühlenstr. 5,Deutschland,Germany,Hamburg,hospital
+0,Praxisklinik Rothenbaum,Hamburg,53.56691922719705,9.992769963065847,Hospital,Heimhuderstrasse 38,Deutschland,Germany,Hamburg,hospital
+0,Praxisklinik Rothenbaum,Hamburg,53.56691922719705,9.992769963065847,Hospital,Heimhuderstrasse 38,Deutschland,Germany,Hamburg,hospital
+0,GOOT - Finest Cuts,Hamburg,53.54850891864796,10.000675320625305,Comfort Food Restaurant,Depenau 10,Deutschland,Germany,Hamburg,restaurant
+0,O-ren Ishii,Hamburg,53.548291,9.99789,Vietnamese Restaurant,Kleine Reichenstr. 18,Deutschland,Germany,Hamburg,restaurant
+0,Picasso,Hamburg,53.549934,9.995627,Spanish Restaurant,Rathausstr. 14,Deutschland,Germany,Hamburg,restaurant
+0,estancia steaks,Hamburg,53.54858135517771,9.995538848631494,Steakhouse,Große Reichenstr. 27,Deutschland,Germany,Hamburg,restaurant
+0,Mi Chii,Hamburg,53.54832040629961,9.99853033975214,Vietnamese Restaurant,Kleine Reichenstr. 1,Deutschland,Germany,Hamburg,restaurant
+0,Shiso Burger,Hamburg,53.5506480910721,10.001897199200204,Burger Joint,Bugenhagenstr. 23,Deutschland,Germany,Hamburg,restaurant
+0,Sakura Sushi,Hamburg,53.552441853233546,10.000058291854657,Sushi Restaurant,Rosenstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Tschebull,Hamburg,53.551418528651986,10.003051968035546,Austrian Restaurant,Mönckebergstr. 7,Deutschland,Germany,Hamburg,restaurant
+0,Burgerlich,Hamburg,53.549684,9.998997,Burger Joint,Speersort 1,Deutschland,Germany,Hamburg,restaurant
+0,Mutterland Cölln's,Hamburg,53.5488317399098,9.99415552311946,German Restaurant,Brodschrangen 1-5,Deutschland,Germany,Hamburg,restaurant
+0,Le Plat du Jour,Hamburg,53.54877309695996,9.994295203772381,French Restaurant,Dornbusch 4,Deutschland,Germany,Hamburg,restaurant
+0,Comida,Hamburg,53.55214587782874,9.999825215107663,Mexican Restaurant,Spitalerstr. 22,Deutschland,Germany,Hamburg,restaurant
+0,Seoul 1988,,53.548073,9.999942,Korean Restaurant,,Deutschland,Germany,Hamburg,restaurant
+0,Happy Waffel,Hamburg,53.550257,10.001689,Café,"Jakobikirchhof 9, 20095 Hamburg",Deutschland,Germany,Hamburg,restaurant
+0,Café Paris,Hamburg,53.55010564784363,9.994227397979342,Café,Rathausstr. 4,Deutschland,Germany,Hamburg,restaurant
+0,I Vigneri - Osteria & Enoteca,Hamburg,53.548993752280225,9.9938469202645,Trattoria/Osteria,Große Bäckerstr. 13,Deutschland,Germany,Hamburg,restaurant
+0,frittenwerk,Hamburg,53.551136,9.9945,Fast Food Restaurant,Bergstraße 17,Deutschland,Germany,Hamburg,restaurant
+0,Apples Restaurant,Hamburg,53.55138975420903,10.003105940307595,Restaurant,Bugenhagenstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Pane E Tulipani,Hamburg,53.54815852468456,10.006464793696582,Italian Restaurant,Klosterwall 23,Deutschland,Germany,Hamburg,restaurant
+0,Daniel Wischer,Hamburg,53.549912070171004,9.993063896304541,Seafood Restaurant,Große Johannisstr. 3,Deutschland,Germany,Hamburg,restaurant
+0,Quan Do,Hamburg,53.553372943644646,10.00255823135376,Vietnamese Restaurant,Georgsplatz 16,Deutschland,Germany,Hamburg,restaurant
+0,Salam-City,Hamburg,53.549939,9.995543,Falafel Restaurant,Rathausstr. 12,Deutschland,Germany,Hamburg,restaurant
+0,ZEIT Café,Hamburg,53.549735,9.998512,Café,Speersort 1,Deutschland,Germany,Hamburg,restaurant
+0,Nakama,Hamburg,53.54742830951812,9.995357441087178,Asian Restaurant,Willy-Brandt-Str. 51,Deutschland,Germany,Hamburg,restaurant
+0,The Coffee Shop,Hamburg,53.54901729072264,9.99215494050129,Café,Börsenbrücke 4,Deutschland,Germany,Hamburg,restaurant
+0,Mö-Grill,Hamburg,53.55125299154359,10.001365172498787,BBQ Joint,Mönckebergstr. 11,Deutschland,Germany,Hamburg,restaurant
+0,Block House,Hamburg,53.55324427933013,10.008340644539686,Steakhouse,Kirchenallee 49-51,Deutschland,Germany,Hamburg,restaurant
+0,Mitri Saliba,Hamburg,53.553032,10.000012,Middle Eastern Restaurant,Gertrudenstraße,Deutschland,Germany,Hamburg,restaurant
+0,Cornelia Poletto PALAZZO,Hamburg,53.54722554978673,10.005474417719304,Deli / Bodega,Deichtorstr. 1,Deutschland,Germany,Hamburg,restaurant
+0,Bäcker Gaues,Hamburg,53.551281157891935,9.995127105403807,Bakery,Ballindamm 40,Deutschland,Germany,Hamburg,restaurant
+0,Mit freundlichen Grüßen,Hamburg,53.553018,9.99251,Café,Jungfernstieg 14,Deutschland,Germany,Hamburg,restaurant
+0,Kinneloa,Hamburg,53.551418,9.995393,Restaurant,Ballindamm 40,Deutschland,Germany,Hamburg,restaurant
+0,Restaurant Haerlin,Hamburg,53.55560698681754,9.992443592859603,French Restaurant,Neuer Jungfernstieg 9,Deutschland,Germany,Hamburg,restaurant
+0,bona'me,Hamburg,53.54855549896045,10.000943957675199,Pide Place,Burchardstr. 17,Deutschland,Germany,Hamburg,restaurant
+0,Badshah,Hamburg,53.55412975680637,10.011170483797516,Indian Restaurant,Bremer Reihe 24,Deutschland,Germany,Hamburg,restaurant
+0,Phở & Rice,,53.55577,10.007385,Vietnamese Restaurant,Kirchenallee 27,Deutschland,Germany,Hamburg,restaurant
+0,Ti Breizh,Hamburg,53.545567006772295,9.98730719089508,Creperie,Deichstr. 39,Deutschland,Germany,Hamburg,restaurant
+0,Die Bank,Hamburg,53.55350146971234,9.98722585588909,Restaurant,Hohe Bleichen 17,Deutschland,Germany,Hamburg,restaurant
+0,Block House,Hamburg,53.551535,9.993855,Restaurant,Jungfernstieg 1,Deutschland,Germany,Hamburg,restaurant
+0,Casse-Croûte,Hamburg,53.555533052205604,9.989550412186004,French Restaurant,Büschstr. 2,Deutschland,Germany,Hamburg,restaurant
+0,NENI Hamburg,Hamburg,53.54248855712061,9.998431424575273,Middle Eastern Restaurant,Osakaallee 12,Deutschland,Germany,Hamburg,restaurant
+0,Im Sprinkenhof,Hamburg,53.548479794525896,10.00340014800015,German Restaurant,Burchardstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Herr He,Hamburg,53.554995210284524,10.007002110003372,Cantonese Restaurant,Ernst-Merck-Str. 10,Deutschland,Germany,Hamburg,restaurant
+0,Hummerstand,Hamburg,53.55344067379488,9.989119815320139,Seafood Restaurant,,Deutschland,Germany,Hamburg,restaurant
+0,Schifferbörse,Hamburg,53.553717025248275,10.008331267803516,Seafood Restaurant,Kirchenallee 46,Deutschland,Germany,Hamburg,restaurant
+0,Il Buco,Hamburg,53.555524,10.012269,Italian Restaurant,Zimmerpforte 5,Deutschland,Germany,Hamburg,restaurant
+0,Hobenköök,Hamburg,53.543192,10.008,Food Court,Stockmeyerstr. 43,Deutschland,Germany,Hamburg,restaurant
+0,Falafel L'Amira,Hamburg,53.554242,10.014367,Falafel Restaurant,Steindamm 58,Deutschland,Germany,Hamburg,restaurant
+0,Dialog im Dunkeln,Hamburg,53.54638478287672,10.001732196388101,Theme Restaurant,Alter Wandrahm 4,Deutschland,Germany,Hamburg,restaurant
+0,The Table | Kevin Fehling,Hamburg,53.54267062605179,10.002725146627037,Modern European Restaurant,Shanghaiallee 15,Deutschland,Germany,Hamburg,restaurant
+0,Saray Köz Restaurant,Hamburg,53.553302,10.0135045,Restaurant,Kreuzweg 12,Deutschland,Germany,Hamburg,restaurant
+0,Marinehof,Hamburg,53.549374206753974,9.985252761253843,German Restaurant,Admiralitätstr. 77,Deutschland,Germany,Hamburg,restaurant
+0,Hans im Glück - Burgergrill,Hamburg,53.548597,9.992385,Burger Joint,"Börsenbrücke 10, Trostbrücke 4-6",Deutschland,Germany,Hamburg,restaurant
+0,Irish Pub in the Fleetenkieker,Hamburg,53.54868564944223,9.992608090274839,Irish Pub,Börsenbrücke 10,Deutschland,Germany,Hamburg,restaurant
+0,Enjoy Coffee Bar,Hamburg,53.5531358263793,10.00138546939593,Café,Rosenstrasse 17,Deutschland,Germany,Hamburg,restaurant
+0,Brooklyn Burger Bar,Hamburg,53.54866568794967,9.996709782288885,Burger Joint,Alter Fischmarkt 3,Deutschland,Germany,Hamburg,restaurant
+0,[m]eatery,Hamburg,53.55663885227333,9.986837671491438,Steakhouse,Drehbahn 49,Deutschland,Germany,Hamburg,restaurant
+0,maiglückchen,Hamburg,53.54183499,9.99399649,Asian Restaurant,Großer Grasbrook 9,Deutschland,Germany,Hamburg,restaurant
+0,Thai Food,Hamburg,53.547878,9.983028,Thai Restaurant,Herrengraben 22,Deutschland,Germany,Hamburg,restaurant
+0,daruma,Hamburg,53.54574175465417,10.007800678005438,Japanese Restaurant,Stadtdeich 1,Deutschland,Germany,Hamburg,restaurant
+0,Hanoi deli,Hamburg,53.5496369444233,9.99279737175165,Vietnamese Restaurant,Schauenburgerstr. 55,Deutschland,Germany,Hamburg,restaurant
+0,Nasch,Hamburg,53.55552820181528,9.984067082405089,Vegetarian / Vegan Restaurant,Caffamacherreihe 49,Deutschland,Germany,Hamburg,restaurant
+0,Oberhafen-Kantine,Hamburg,53.5445693351864,10.006921385315067,Gastropub,Stockmeyerstr. 39,Deutschland,Germany,Hamburg,restaurant
+0,Brasserie Tortue,Hamburg,53.551468,9.986459,French Restaurant,Stadthausbrücke 10,Deutschland,Germany,Hamburg,restaurant
+0,Strauchs Falco,Hamburg,53.542585862774516,9.999844467678567,Mediterranean Restaurant,Koreastraße 2,Deutschland,Germany,Hamburg,restaurant
+0,Delikatessen des Meeres,Hamburg,53.557708054444674,9.990034611091351,Seafood Restaurant,Colonnaden 104,Deutschland,Germany,Hamburg,restaurant
+0,Zum Spätzle,Hamburg,53.551032591750236,9.981607711190692,Swabian Restaurant,Wexstr. 31,Deutschland,Germany,Hamburg,restaurant
+0,barca - an der Alster,Hamburg,53.55851356439605,10.005615648642788,Restaurant,An der Alster 67a,Deutschland,Germany,Hamburg,restaurant
+0,Caravela,Hamburg,53.555956030836505,10.009244875010006,Portuguese Restaurant,Lange Reihe 13,Deutschland,Germany,Hamburg,restaurant
+0,COAST by east,Hamburg,53.54032548839271,9.993044077318622,Seafood Restaurant,Großer Grasbrook 14,Deutschland,Germany,Hamburg,restaurant
+0,Jim Block,Hamburg,53.551899655203755,9.994383780586565,Restaurant,Jungfernstieg 1-3,Deutschland,Germany,Hamburg,restaurant
+0,Nagel,Hamburg,53.5527240668893,10.0087611941861,German Restaurant,Kirchenallee 57,Deutschland,Germany,Hamburg,restaurant
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,restaurant
+0,Otto's Burger,Hamburg,53.55657171422689,10.010382062723487,Burger Joint,Lange Reihe 40,Deutschland,Germany,Hamburg,restaurant
+0,Heritage,Hamburg,53.558621,10.007744,French Restaurant,An der Alster 52-56,Deutschland,Germany,Hamburg,restaurant
+0,Hansebäcker Junge,Hamburg,53.55441432455154,10.007908870445315,Bakery,Kirchenallee 19,Deutschland,Germany,Hamburg,restaurant
+0,Kardelen,Hamburg,53.55066673466425,9.98227138147596,Turkish Restaurant,Steinwegpassage 6,Deutschland,Germany,Hamburg,restaurant
+0,Karlsons,Hamburg,53.55039370118854,9.982171002947316,Scandinavian Restaurant,Alter Steinweg 10,Deutschland,Germany,Hamburg,restaurant
+0,Schönes Leben,Hamburg,53.54546788947242,9.997275712373423,German Restaurant,Alter Wandrahm 15,Deutschland,Germany,Hamburg,restaurant
+0,Bella Italia,Hamburg,53.546386475771286,9.997070878361296,Italian Restaurant,Brandstwiete 58,Deutschland,Germany,Hamburg,restaurant
+0,Jin Gui,Hamburg,53.551486,9.986556,Asian Restaurant,Stadthausbrücke 12,Deutschland,Germany,Hamburg,restaurant
+0,Tarantella,Hamburg,53.55879863637861,9.99016842186929,Modern European Restaurant,Stephansplatz 10,Deutschland,Germany,Hamburg,restaurant
+0,Heimat Küche + Bar,Hamburg,53.541425937394614,9.998990734918541,Bistro,Überseeallee 5,Deutschland,Germany,Hamburg,restaurant
+0,Mei Moon,Hamburg,53.553571128267734,10.009263201729194,Chinese Restaurant,Bremer Reihe 10,Deutschland,Germany,Hamburg,restaurant
+0,MAD about Juice,Hamburg,53.55627209735855,9.987889260293839,Salad Place,Dammtorstr. 29-32,Deutschland,Germany,Hamburg,restaurant
+0,Ristorante Portonovo,Hamburg,53.55922629808987,9.996573014390101,Italian Restaurant,Alsterufer 2,Deutschland,Germany,Hamburg,restaurant
+0,Hokkai Sushi,Hamburg,53.555746749347904,9.986275731899461,Sushi Restaurant,Valentinskamp 18,Deutschland,Germany,Hamburg,restaurant
+0,La Tavola Calda,Hamburg,53.54933353084394,9.99378929318213,Italian Restaurant,Johannisstr. 15,Deutschland,Germany,Hamburg,restaurant
+0,Hacker-Pschorr Hamburg,Hamburg,53.55891842977392,10.013144638527253,Bavarian Restaurant,Lange Reihe 97,Deutschland,Germany,Hamburg,restaurant
+0,La Chance,Hamburg,53.55099999350919,9.981542175883352,French Restaurant,Wexstr. 31,Deutschland,Germany,Hamburg,restaurant
+0,Hamburg im Süden,Hamburg,53.54281598546363,10.00030412676081,Tapas Restaurant,Hongkongstraße/ Elbarkaden,Deutschland,Germany,Hamburg,restaurant
+0,Obst & Gemüse Salat Bar,Hamburg,53.54442701863603,9.981146764674051,Salad Place,Baumwall 5,Deutschland,Germany,Hamburg,restaurant
+0,Gao kitchen,Hamburg,53.558154009297596,10.012117488920865,Vietnamese Restaurant,Lange Reihe 81,Deutschland,Germany,Hamburg,restaurant
+0,Kumpir Avanti,Hamburg,53.55534556822637,10.008314340081897,Falafel Restaurant,Lange Reihe 2,Deutschland,Germany,Hamburg,restaurant
+0,Loving Hut,Hamburg,53.553915,10.019435,Vegetarian / Vegan Restaurant,Ferdinand-Beit-Straße 7,Deutschland,Germany,Hamburg,restaurant
+0,HEJPAPA,Hamburg,53.554262002751706,9.979817301092147,Café,Poolstr. 32,Deutschland,Germany,Hamburg,restaurant
+0,Matsumi,Hamburg,53.55732867591245,9.990140712613783,Japanese Restaurant,Colonnaden 96,Deutschland,Germany,Hamburg,restaurant
+0,Green Papaya,Hamburg,53.55788661378633,9.988981008384263,Asian Restaurant,Stephansplatz 6,Deutschland,Germany,Hamburg,restaurant
+0,Surfkitchen,Hamburg,53.54274920931666,10.00056266784668,Burger Joint,Hongkongstr. 2-4,Deutschland,Germany,Hamburg,restaurant
+0,Ahoi Marie Bootshaus,Hamburg,53.55128754827413,9.980514734376523,Seafood Restaurant,Thielbek 3,Deutschland,Germany,Hamburg,restaurant
+0,O-ren Ishii,Hamburg,53.548291,9.99789,Vietnamese Restaurant,Kleine Reichenstr. 18,Deutschland,Germany,Hamburg,restaurant
+0,Picasso,Hamburg,53.549934,9.995627,Spanish Restaurant,Rathausstr. 14,Deutschland,Germany,Hamburg,restaurant
+0,estancia steaks,Hamburg,53.54858135517771,9.995538848631494,Steakhouse,Große Reichenstr. 27,Deutschland,Germany,Hamburg,restaurant
+0,Mi Chii,Hamburg,53.54832040629961,9.99853033975214,Vietnamese Restaurant,Kleine Reichenstr. 1,Deutschland,Germany,Hamburg,restaurant
+0,Shiso Burger,Hamburg,53.5506480910721,10.001897199200204,Burger Joint,Bugenhagenstr. 23,Deutschland,Germany,Hamburg,restaurant
+0,Sakura Sushi,Hamburg,53.552441853233546,10.000058291854657,Sushi Restaurant,Rosenstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Tschebull,Hamburg,53.551418528651986,10.003051968035546,Austrian Restaurant,Mönckebergstr. 7,Deutschland,Germany,Hamburg,restaurant
+0,Burgerlich,Hamburg,53.549684,9.998997,Burger Joint,Speersort 1,Deutschland,Germany,Hamburg,restaurant
+0,Mutterland Cölln's,Hamburg,53.5488317399098,9.99415552311946,German Restaurant,Brodschrangen 1-5,Deutschland,Germany,Hamburg,restaurant
+0,Le Plat du Jour,Hamburg,53.54877309695996,9.994295203772381,French Restaurant,Dornbusch 4,Deutschland,Germany,Hamburg,restaurant
+0,Comida,Hamburg,53.55214587782874,9.999825215107663,Mexican Restaurant,Spitalerstr. 22,Deutschland,Germany,Hamburg,restaurant
+0,Seoul 1988,,53.548073,9.999942,Korean Restaurant,,Deutschland,Germany,Hamburg,restaurant
+0,Happy Waffel,Hamburg,53.550257,10.001689,Café,"Jakobikirchhof 9, 20095 Hamburg",Deutschland,Germany,Hamburg,restaurant
+0,Café Paris,Hamburg,53.55010564784363,9.994227397979342,Café,Rathausstr. 4,Deutschland,Germany,Hamburg,restaurant
+0,I Vigneri - Osteria & Enoteca,Hamburg,53.548993752280225,9.9938469202645,Trattoria/Osteria,Große Bäckerstr. 13,Deutschland,Germany,Hamburg,restaurant
+0,frittenwerk,Hamburg,53.551136,9.9945,Fast Food Restaurant,Bergstraße 17,Deutschland,Germany,Hamburg,restaurant
+0,Apples Restaurant,Hamburg,53.55138975420903,10.003105940307595,Restaurant,Bugenhagenstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Pane E Tulipani,Hamburg,53.54815852468456,10.006464793696582,Italian Restaurant,Klosterwall 23,Deutschland,Germany,Hamburg,restaurant
+0,Daniel Wischer,Hamburg,53.549912070171004,9.993063896304541,Seafood Restaurant,Große Johannisstr. 3,Deutschland,Germany,Hamburg,restaurant
+0,Quan Do,Hamburg,53.553372943644646,10.00255823135376,Vietnamese Restaurant,Georgsplatz 16,Deutschland,Germany,Hamburg,restaurant
+0,Salam-City,Hamburg,53.549939,9.995543,Falafel Restaurant,Rathausstr. 12,Deutschland,Germany,Hamburg,restaurant
+0,ZEIT Café,Hamburg,53.549735,9.998512,Café,Speersort 1,Deutschland,Germany,Hamburg,restaurant
+0,Nakama,Hamburg,53.54742830951812,9.995357441087178,Asian Restaurant,Willy-Brandt-Str. 51,Deutschland,Germany,Hamburg,restaurant
+0,The Coffee Shop,Hamburg,53.54901729072264,9.99215494050129,Café,Börsenbrücke 4,Deutschland,Germany,Hamburg,restaurant
+0,Mö-Grill,Hamburg,53.55125299154359,10.001365172498787,BBQ Joint,Mönckebergstr. 11,Deutschland,Germany,Hamburg,restaurant
+0,Block House,Hamburg,53.55324427933013,10.008340644539686,Steakhouse,Kirchenallee 49-51,Deutschland,Germany,Hamburg,restaurant
+0,Mitri Saliba,Hamburg,53.553032,10.000012,Middle Eastern Restaurant,Gertrudenstraße,Deutschland,Germany,Hamburg,restaurant
+0,Cornelia Poletto PALAZZO,Hamburg,53.54722554978673,10.005474417719304,Deli / Bodega,Deichtorstr. 1,Deutschland,Germany,Hamburg,restaurant
+0,Bäcker Gaues,Hamburg,53.551281157891935,9.995127105403807,Bakery,Ballindamm 40,Deutschland,Germany,Hamburg,restaurant
+0,Mit freundlichen Grüßen,Hamburg,53.553018,9.99251,Café,Jungfernstieg 14,Deutschland,Germany,Hamburg,restaurant
+0,Kinneloa,Hamburg,53.551418,9.995393,Restaurant,Ballindamm 40,Deutschland,Germany,Hamburg,restaurant
+0,Restaurant Haerlin,Hamburg,53.55560698681754,9.992443592859603,French Restaurant,Neuer Jungfernstieg 9,Deutschland,Germany,Hamburg,restaurant
+0,bona'me,Hamburg,53.54855549896045,10.000943957675199,Pide Place,Burchardstr. 17,Deutschland,Germany,Hamburg,restaurant
+0,Badshah,Hamburg,53.55412975680637,10.011170483797516,Indian Restaurant,Bremer Reihe 24,Deutschland,Germany,Hamburg,restaurant
+0,Phở & Rice,,53.55577,10.007385,Vietnamese Restaurant,Kirchenallee 27,Deutschland,Germany,Hamburg,restaurant
+0,Ti Breizh,Hamburg,53.545567006772295,9.98730719089508,Creperie,Deichstr. 39,Deutschland,Germany,Hamburg,restaurant
+0,Die Bank,Hamburg,53.55350146971234,9.98722585588909,Restaurant,Hohe Bleichen 17,Deutschland,Germany,Hamburg,restaurant
+0,Block House,Hamburg,53.551535,9.993855,Restaurant,Jungfernstieg 1,Deutschland,Germany,Hamburg,restaurant
+0,Casse-Croûte,Hamburg,53.555533052205604,9.989550412186004,French Restaurant,Büschstr. 2,Deutschland,Germany,Hamburg,restaurant
+0,NENI Hamburg,Hamburg,53.54248855712061,9.998431424575273,Middle Eastern Restaurant,Osakaallee 12,Deutschland,Germany,Hamburg,restaurant
+0,Im Sprinkenhof,Hamburg,53.548479794525896,10.00340014800015,German Restaurant,Burchardstr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Herr He,Hamburg,53.554995210284524,10.007002110003372,Cantonese Restaurant,Ernst-Merck-Str. 10,Deutschland,Germany,Hamburg,restaurant
+0,Hummerstand,Hamburg,53.55344067379488,9.989119815320139,Seafood Restaurant,,Deutschland,Germany,Hamburg,restaurant
+0,Schifferbörse,Hamburg,53.553717025248275,10.008331267803516,Seafood Restaurant,Kirchenallee 46,Deutschland,Germany,Hamburg,restaurant
+0,Il Buco,Hamburg,53.555524,10.012269,Italian Restaurant,Zimmerpforte 5,Deutschland,Germany,Hamburg,restaurant
+0,Hobenköök,Hamburg,53.543192,10.008,Food Court,Stockmeyerstr. 43,Deutschland,Germany,Hamburg,restaurant
+0,Falafel L'Amira,Hamburg,53.554242,10.014367,Falafel Restaurant,Steindamm 58,Deutschland,Germany,Hamburg,restaurant
+0,Dialog im Dunkeln,Hamburg,53.54638478287672,10.001732196388101,Theme Restaurant,Alter Wandrahm 4,Deutschland,Germany,Hamburg,restaurant
+0,The Table | Kevin Fehling,Hamburg,53.54267062605179,10.002725146627037,Modern European Restaurant,Shanghaiallee 15,Deutschland,Germany,Hamburg,restaurant
+0,Saray Köz Restaurant,Hamburg,53.553302,10.0135045,Restaurant,Kreuzweg 12,Deutschland,Germany,Hamburg,restaurant
+0,Marinehof,Hamburg,53.549374206753974,9.985252761253843,German Restaurant,Admiralitätstr. 77,Deutschland,Germany,Hamburg,restaurant
+0,Hans im Glück - Burgergrill,Hamburg,53.548597,9.992385,Burger Joint,"Börsenbrücke 10, Trostbrücke 4-6",Deutschland,Germany,Hamburg,restaurant
+0,Irish Pub in the Fleetenkieker,Hamburg,53.54868564944223,9.992608090274839,Irish Pub,Börsenbrücke 10,Deutschland,Germany,Hamburg,restaurant
+0,Enjoy Coffee Bar,Hamburg,53.5531358263793,10.00138546939593,Café,Rosenstrasse 17,Deutschland,Germany,Hamburg,restaurant
+0,Brooklyn Burger Bar,Hamburg,53.54866568794967,9.996709782288885,Burger Joint,Alter Fischmarkt 3,Deutschland,Germany,Hamburg,restaurant
+0,[m]eatery,Hamburg,53.55663885227333,9.986837671491438,Steakhouse,Drehbahn 49,Deutschland,Germany,Hamburg,restaurant
+0,maiglückchen,Hamburg,53.54183499,9.99399649,Asian Restaurant,Großer Grasbrook 9,Deutschland,Germany,Hamburg,restaurant
+0,Thai Food,Hamburg,53.547878,9.983028,Thai Restaurant,Herrengraben 22,Deutschland,Germany,Hamburg,restaurant
+0,daruma,Hamburg,53.54574175465417,10.007800678005438,Japanese Restaurant,Stadtdeich 1,Deutschland,Germany,Hamburg,restaurant
+0,Hanoi deli,Hamburg,53.5496369444233,9.99279737175165,Vietnamese Restaurant,Schauenburgerstr. 55,Deutschland,Germany,Hamburg,restaurant
+0,Nasch,Hamburg,53.55552820181528,9.984067082405089,Vegetarian / Vegan Restaurant,Caffamacherreihe 49,Deutschland,Germany,Hamburg,restaurant
+0,Oberhafen-Kantine,Hamburg,53.5445693351864,10.006921385315067,Gastropub,Stockmeyerstr. 39,Deutschland,Germany,Hamburg,restaurant
+0,Brasserie Tortue,Hamburg,53.551468,9.986459,French Restaurant,Stadthausbrücke 10,Deutschland,Germany,Hamburg,restaurant
+0,Strauchs Falco,Hamburg,53.542585862774516,9.999844467678567,Mediterranean Restaurant,Koreastraße 2,Deutschland,Germany,Hamburg,restaurant
+0,Delikatessen des Meeres,Hamburg,53.557708054444674,9.990034611091351,Seafood Restaurant,Colonnaden 104,Deutschland,Germany,Hamburg,restaurant
+0,Zum Spätzle,Hamburg,53.551032591750236,9.981607711190692,Swabian Restaurant,Wexstr. 31,Deutschland,Germany,Hamburg,restaurant
+0,barca - an der Alster,Hamburg,53.55851356439605,10.005615648642788,Restaurant,An der Alster 67a,Deutschland,Germany,Hamburg,restaurant
+0,Caravela,Hamburg,53.555956030836505,10.009244875010006,Portuguese Restaurant,Lange Reihe 13,Deutschland,Germany,Hamburg,restaurant
+0,COAST by east,Hamburg,53.54032548839271,9.993044077318622,Seafood Restaurant,Großer Grasbrook 14,Deutschland,Germany,Hamburg,restaurant
+0,Jim Block,Hamburg,53.551899655203755,9.994383780586565,Restaurant,Jungfernstieg 1-3,Deutschland,Germany,Hamburg,restaurant
+0,Nagel,Hamburg,53.5527240668893,10.0087611941861,German Restaurant,Kirchenallee 57,Deutschland,Germany,Hamburg,restaurant
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,restaurant
+0,Otto's Burger,Hamburg,53.55657171422689,10.010382062723487,Burger Joint,Lange Reihe 40,Deutschland,Germany,Hamburg,restaurant
+0,Heritage,Hamburg,53.558621,10.007744,French Restaurant,An der Alster 52-56,Deutschland,Germany,Hamburg,restaurant
+0,Hansebäcker Junge,Hamburg,53.55441432455154,10.007908870445315,Bakery,Kirchenallee 19,Deutschland,Germany,Hamburg,restaurant
+0,Kardelen,Hamburg,53.55066673466425,9.98227138147596,Turkish Restaurant,Steinwegpassage 6,Deutschland,Germany,Hamburg,restaurant
+0,Karlsons,Hamburg,53.55039370118854,9.982171002947316,Scandinavian Restaurant,Alter Steinweg 10,Deutschland,Germany,Hamburg,restaurant
+0,Schönes Leben,Hamburg,53.54546788947242,9.997275712373423,German Restaurant,Alter Wandrahm 15,Deutschland,Germany,Hamburg,restaurant
+0,Bella Italia,Hamburg,53.546386475771286,9.997070878361296,Italian Restaurant,Brandstwiete 58,Deutschland,Germany,Hamburg,restaurant
+0,Jin Gui,Hamburg,53.551486,9.986556,Asian Restaurant,Stadthausbrücke 12,Deutschland,Germany,Hamburg,restaurant
+0,Tarantella,Hamburg,53.55879863637861,9.99016842186929,Modern European Restaurant,Stephansplatz 10,Deutschland,Germany,Hamburg,restaurant
+0,Heimat Küche + Bar,Hamburg,53.541425937394614,9.998990734918541,Bistro,Überseeallee 5,Deutschland,Germany,Hamburg,restaurant
+0,Mei Moon,Hamburg,53.553571128267734,10.009263201729194,Chinese Restaurant,Bremer Reihe 10,Deutschland,Germany,Hamburg,restaurant
+0,MAD about Juice,Hamburg,53.55627209735855,9.987889260293839,Salad Place,Dammtorstr. 29-32,Deutschland,Germany,Hamburg,restaurant
+0,Ristorante Portonovo,Hamburg,53.55922629808987,9.996573014390101,Italian Restaurant,Alsterufer 2,Deutschland,Germany,Hamburg,restaurant
+0,Hokkai Sushi,Hamburg,53.555746749347904,9.986275731899461,Sushi Restaurant,Valentinskamp 18,Deutschland,Germany,Hamburg,restaurant
+0,La Tavola Calda,Hamburg,53.54933353084394,9.99378929318213,Italian Restaurant,Johannisstr. 15,Deutschland,Germany,Hamburg,restaurant
+0,Hacker-Pschorr Hamburg,Hamburg,53.55891842977392,10.013144638527253,Bavarian Restaurant,Lange Reihe 97,Deutschland,Germany,Hamburg,restaurant
+0,La Chance,Hamburg,53.55099999350919,9.981542175883352,French Restaurant,Wexstr. 31,Deutschland,Germany,Hamburg,restaurant
+0,Hamburg im Süden,Hamburg,53.54281598546363,10.00030412676081,Tapas Restaurant,Hongkongstraße/ Elbarkaden,Deutschland,Germany,Hamburg,restaurant
+0,Obst & Gemüse Salat Bar,Hamburg,53.54442701863603,9.981146764674051,Salad Place,Baumwall 5,Deutschland,Germany,Hamburg,restaurant
+0,Gao kitchen,Hamburg,53.558154009297596,10.012117488920865,Vietnamese Restaurant,Lange Reihe 81,Deutschland,Germany,Hamburg,restaurant
+0,Kumpir Avanti,Hamburg,53.55534556822637,10.008314340081897,Falafel Restaurant,Lange Reihe 2,Deutschland,Germany,Hamburg,restaurant
+0,Loving Hut,Hamburg,53.553915,10.019435,Vegetarian / Vegan Restaurant,Ferdinand-Beit-Straße 7,Deutschland,Germany,Hamburg,restaurant
+0,HEJPAPA,Hamburg,53.554262002751706,9.979817301092147,Café,Poolstr. 32,Deutschland,Germany,Hamburg,restaurant
+0,Matsumi,Hamburg,53.55732867591245,9.990140712613783,Japanese Restaurant,Colonnaden 96,Deutschland,Germany,Hamburg,restaurant
+0,Green Papaya,Hamburg,53.55788661378633,9.988981008384263,Asian Restaurant,Stephansplatz 6,Deutschland,Germany,Hamburg,restaurant
+0,Surfkitchen,Hamburg,53.54274920931666,10.00056266784668,Burger Joint,Hongkongstr. 2-4,Deutschland,Germany,Hamburg,restaurant
+0,Ahoi Marie Bootshaus,Hamburg,53.55128754827413,9.980514734376523,Seafood Restaurant,Thielbek 3,Deutschland,Germany,Hamburg,restaurant
+0,Billy the Butcher,Hamburg,53.55303741579079,9.990444308766008,Burger Joint,Poststr. 8,Deutschland,Germany,Hamburg,restaurant
+0,Die Rösterei,Hamburg,53.549879403652724,10.001517534255981,Coffee Shop,Steinstr. 19a,Deutschland,Germany,Hamburg,coffee
+0,Public Coffee Roasters,Hamburg,53.54695300323186,9.997439752535662,Coffee Shop,Brandstwiete 3,Deutschland,Germany,Hamburg,coffee
+0,Mutterland Cölln's,Hamburg,53.5488317399098,9.99415552311946,German Restaurant,Brodschrangen 1-5,Deutschland,Germany,Hamburg,coffee
+0,Happy Waffel,Hamburg,53.550257,10.001689,Café,"Jakobikirchhof 9, 20095 Hamburg",Deutschland,Germany,Hamburg,coffee
+0,Café Paris,Hamburg,53.55010564784363,9.994227397979342,Café,Rathausstr. 4,Deutschland,Germany,Hamburg,coffee
+0,Espresso House,Hamburg,53.551727,9.998238,Coffee Shop,Alstertor 1,Deutschland,Germany,Hamburg,coffee
+0,Elbgold,Hamburg,53.54976397192337,9.992869290815168,Coffee Shop,Schauenburgerstr. 50,Deutschland,Germany,Hamburg,coffee
+0,JOE & THE JUICE,Hamburg,53.551724,9.994995,Juice Bar,Ballindamm 40,Deutschland,Germany,Hamburg,coffee
+0,ZEIT Café,Hamburg,53.549735,9.998512,Café,Speersort 1,Deutschland,Germany,Hamburg,coffee
+0,The Coffee Shop,Hamburg,53.54901729072264,9.99215494050129,Café,Börsenbrücke 4,Deutschland,Germany,Hamburg,coffee
+0,Elbgold,Hamburg,53.55314607846044,9.991722106933594,Coffee Shop,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,coffee
+0,Mit freundlichen Grüßen,Hamburg,53.553018,9.99251,Café,Jungfernstieg 14,Deutschland,Germany,Hamburg,coffee
+0,The Coffee Shop,Hamburg,53.552525,9.991009,Coffee Shop,Poststr. 6a,Deutschland,Germany,Hamburg,coffee
+0,Nord Coast Coffee Roastery,Hamburg,53.54657553211275,9.98801917321201,Coffee Roaster,Deichstr. 9,Deutschland,Germany,Hamburg,coffee
+0,Torrefaktum,Hamburg,53.54224547211993,10.00450574581402,Coffee Shop,Yokohamastrasse,Deutschland,Germany,Hamburg,coffee
+0,Playground Coffee,Hamburg,53.55117144725757,9.992224181514759,Coffee Shop,Rathausmarkt 1,Deutschland,Germany,Hamburg,coffee
+0,Zweiradperle,Hamburg,53.549356931139826,10.004183773462204,Bike Shop,Altstädter Str. 3-7,Deutschland,Germany,Hamburg,coffee
+0,Wasserschloss,Hamburg,53.5455343456418,9.999734962388025,Tea Room,Dienerreihe 4,Deutschland,Germany,Hamburg,coffee
+0,Public Coffee Roasters,Hamburg,53.551372,9.982597,Coffee Shop,Wexstr. 28,Deutschland,Germany,Hamburg,coffee
+0,Enjoy Coffee Bar,Hamburg,53.5531358263793,10.00138546939593,Café,Rosenstrasse 17,Deutschland,Germany,Hamburg,coffee
+0,Hunt Coffee,,53.555218,9.990553,Coffee Shop,,Deutschland,Germany,Hamburg,coffee
+0,Nasch,Hamburg,53.55552820181528,9.984067082405089,Vegetarian / Vegan Restaurant,Caffamacherreihe 49,Deutschland,Germany,Hamburg,coffee
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,coffee
+0,Schönes Leben,Hamburg,53.54546788947242,9.997275712373423,German Restaurant,Alter Wandrahm 15,Deutschland,Germany,Hamburg,coffee
+0,Luicella's,Hamburg,53.55966336021095,10.014306779140176,Ice Cream Shop,Lange Reihe 113,Deutschland,Germany,Hamburg,coffee
+0,Tee Gschwendner,Hamburg,53.55064569545186,9.995851467485807,Tea Room,Bergstr. 14,Deutschland,Germany,Hamburg,coffee
+0,Café Gnosa,Hamburg,53.5587352873505,10.012909861818677,Café,Lange Reihe 93,Deutschland,Germany,Hamburg,coffee
+0,Orogelato,Hamburg,53.54345558296623,9.997959313422589,Ice Cream Shop,,Deutschland,Germany,Hamburg,coffee
+0,JOE & THE JUICE,Hamburg,53.551924,9.987508,Juice Bar,Große Bleichen 35,Deutschland,Germany,Hamburg,coffee
+0,HEJPAPA,Hamburg,53.554262002751706,9.979817301092147,Café,Poolstr. 32,Deutschland,Germany,Hamburg,coffee
+0,Kaffeerösterei Speicherstadt,Hamburg,53.543691,9.98802,Coffee Shop,Kehrwieder 5,Deutschland,Germany,Hamburg,coffee
+0,Wonder Waffel,Hamburg,53.552282,10.001684,Coffee Shop,Lilienstraße 15,Deutschland,Germany,Hamburg,coffee
+0,I Vigneri Caffé e Alimentari,Hamburg,53.54913679751935,9.993889331817625,Café,Kleine Johannisstr.,Deutschland,Germany,Hamburg,coffee
+0,Meßmer Momentum,Hamburg,53.54169366069786,9.99117844200816,Tea Room,Am Kaiserkai 10,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55008571762237,10.005046084361037,Coffee Shop,Steinstrasse 5-7,Deutschland,Germany,Hamburg,coffee
+0,Milch,Hamburg,53.546051,9.975681,Café,Ditmar-Koel-Str. 22,Deutschland,Germany,Hamburg,coffee
+0,Le Velo,Hamburg,53.55289876172075,9.98814283957493,Bike Shop,,Deutschland,Germany,Hamburg,coffee
+0,Café Koppel,Hamburg,53.558304295674674,10.011780244257638,Vegetarian / Vegan Restaurant,Koppel 66,Deutschland,Germany,Hamburg,coffee
+0,Compagnie Coloniale,Hamburg,53.55150701309888,10.00297156215836,Gift Shop,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,Lieblingsplatz,Hamburg,53.54274175793335,9.997962956782846,Sandwich Place,Osakaallee 6-8,Deutschland,Germany,Hamburg,coffee
+0,Café Johanna,Hamburg,53.54698600862621,9.97504130430151,Café,Venusberg 26,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55216355708212,9.986245678618697,Café,Große Bleichen 68,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.555029,9.991027,Coffee Shop,Neuer Jungfernstieg 5,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.551519606021124,9.994807118144589,Coffee Shop,Bergstr. 26,Deutschland,Germany,Hamburg,coffee
+0,Arepa Café,Hamburg,53.55485307914729,10.012283311594313,Arepa Restaurant,Hansaplatz 12,Deutschland,Germany,Hamburg,coffee
+0,MAYA Kaffeerösterei,Hamburg,53.54604512407237,10.024439503405665,Coffee Shop,Hammerbrookstr. 75,Deutschland,Germany,Hamburg,coffee
+0,Back-Lava,Hamburg,53.5544261054279,10.014766724716651,Café,Steindamm 62,Deutschland,Germany,Hamburg,coffee
+0,Fleetschlösschen,Hamburg,53.54441770670834,9.997967262267135,Bar,Brooktorkai 17,Deutschland,Germany,Hamburg,coffee
+0,Wohnhalle,Hamburg,53.555428,9.991658,Tea Room,Neuer Jungfernstieg 9-14,Deutschland,Germany,Hamburg,coffee
+0,Pausenschön,Hamburg,53.55033813825192,9.982270390514426,Café,Steinwegpassage,Deutschland,Germany,Hamburg,coffee
+0,Bar Levante,Hamburg,53.551481974592114,10.003231816355315,Café,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,ALEX,Hamburg,53.5444664,9.975225,Café,Vorsetzen 72,Deutschland,Germany,Hamburg,coffee
+0,milchglas,Hamburg,53.550385560276936,9.982182702825423,Café,Alter Steinweg 11,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.543921630249166,9.978921105237154,Coffee Shop,Vorsetzen 31,Deutschland,Germany,Hamburg,coffee
+0,Café Minah,Hamburg,53.544958,9.985393,Café,Kajen 1,Deutschland,Germany,Hamburg,coffee
+0,Café Uhrlaub,Hamburg,53.557894709151554,10.01141161737966,Café,Lange Reihe 63,Deutschland,Germany,Hamburg,coffee
+0,Favoloso,Hamburg,53.55727606923115,9.989002346992493,Café,Dammtorstr. 25,Deutschland,Germany,Hamburg,coffee
+0,Gretchens Villa,Hamburg,53.55844735730907,9.974244803810398,Café,Marktstr. 142,Deutschland,Germany,Hamburg,coffee
+0,Brick's,Hamburg,53.55233655696498,9.987692854945264,Tea Room,Grosse Bleichen,Deutschland,Germany,Hamburg,coffee
+0,Alte Liebe Restaurant,Hamburg,53.543189,9.99964,German Restaurant,Koreastrasse 1,Deutschland,Germany,Hamburg,coffee
+0,Pastelaria Caravela,Hamburg,53.55714926844718,9.989889987061963,Café,Colonnaden 43,Deutschland,Germany,Hamburg,coffee
+0,Klein & Kaiserlich,Hamburg,53.541568,9.990231,Café,Am Kaiserkai 26,Deutschland,Germany,Hamburg,coffee
+0,ALEX,Hamburg,53.55410512292068,9.992044506946822,Café,Jungfernstieg 54,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.55125630451121,10.000930394719328,Coffee Shop,Barkhof 3,Deutschland,Germany,Hamburg,coffee
+0,Tchibo,Hamburg,53.55065807059266,9.994374659493145,Coffee Shop,Rathausmarkt 10,Deutschland,Germany,Hamburg,coffee
+0,Golden Temple Teehaus,Hamburg,53.56486873817241,9.983595983596958,Tea Room,Grindelallee 26,Deutschland,Germany,Hamburg,coffee
+0,Amber Cafe,Hamburg,53.54600639379717,9.981471233463232,Café,Schaarsteinwegsbrücke 2,Deutschland,Germany,Hamburg,coffee
+0,Café Bel Dì,Hamburg,53.55724776288684,10.01102658224534,Coffee Shop,Lange Reihe 47,Deutschland,Germany,Hamburg,coffee
+0,Cuccis,Hamburg,53.55247608969291,10.007375529983774,Café,Hachmannplatz 16,Deutschland,Germany,Hamburg,coffee
+0,Coffee & Cakes,Hamburg,53.54616203844147,9.976416509524036,Café,Ditmar-Koel-Str. 8,Deutschland,Germany,Hamburg,coffee
+0,Café Schöne Aussichten,Hamburg,53.55847807857473,9.98577823804826,Café,Gorch-Fock-Wall 4,Deutschland,Germany,Hamburg,coffee
+0,WIENER KAFFEE,Hamburg,53.55536464515777,10.015952044941361,Restaurant,Steindamm 63,Deutschland,Germany,Hamburg,coffee
+0,Genuss Speicher,Hamburg,53.54461076169492,9.996850490570067,Coffee Shop,St. Annenufer 2,Deutschland,Germany,Hamburg,coffee
+0,Monkey Donuts,Hamburg,53.552461307317266,10.000819998282592,Donut Shop,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,coffee
+0,Peaberries,Hamburg,53.55762988976144,10.010600933813402,Coffee Shop,Gurlittstr. 48,Deutschland,Germany,Hamburg,coffee
+0,Suliko - Georgian Cuisine & Wine,Hamburg,53.567679,9.995322,Restaurant,Mittelweg 24,Deutschland,Germany,Hamburg,coffee
+0,Villani,Hamburg,53.55574583390415,9.985769218299536,Café,,Deutschland,Germany,Hamburg,coffee
+0,PANTER Cafebarkitchen,Hamburg,53.55841948768493,9.97456474519612,Coffee Shop,Marktstr. 3,Deutschland,Germany,Hamburg,coffee
+0,Westwind,Hamburg,53.555783700007446,10.0080091957785,German Restaurant,Spadenteich 1,Deutschland,Germany,Hamburg,coffee
+0,Palang Good Coffee,Hamburg,53.54832103648588,10.001680673103122,Coffee Shop,Fischertwiete 1,Deutschland,Germany,Hamburg,coffee
+0,Café Punto Ernesto,Hamburg,53.55512682359627,10.006518533694713,Café,Glockengießerwall 8 - 10,Deutschland,Germany,Hamburg,coffee
+0,Bodos Bootssteg,Hamburg,53.56730541671698,10.001756884745618,Café,Harvestehuder Weg 1b,Deutschland,Germany,Hamburg,coffee
+0,Dunkin',Hamburg,53.55344340246483,10.006318699694134,Donut Shop,"Glockengießer Wall 8-10, Hauptbahnhof Hamburg",Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.54984936142328,10.000668319011094,Coffee Shop,Steinstr. 25,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.560769406445544,9.989619197139975,Coffee Shop,Bahnhof Dammtor,Deutschland,Germany,Hamburg,coffee
+0,Double Coffee,Hamburg,53.564929106136354,9.98681608511257,Coffee Shop,Schlüterstr. 12,Deutschland,Germany,Hamburg,coffee
+0,Vivet,Hamburg,53.551822,10.00258,Café,Spitalerstr. 9,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55356598290344,10.002743847055966,Coffee Shop,Brandsende 2-4,Deutschland,Germany,Hamburg,coffee
+0,Cafe Dell' Arte,Hamburg,53.56342118163054,9.987887843388629,Coffee Shop,Edmund-Siemens-Allee 1,Deutschland,Germany,Hamburg,coffee
+0,Dat Backhus,Hamburg,53.556667850688406,10.010307829676455,Bakery,Lange Reihe 29,Deutschland,Germany,Hamburg,coffee
+0,Cafe Curios,Hamburg,53.554820060379484,10.012420216211412,Café,Hansaplatz,Deutschland,Germany,Hamburg,coffee
+0,Stadtbäckerei,Hamburg,53.557236286059386,10.010979858956652,Bakery,Lange Reihe 52,Deutschland,Germany,Hamburg,coffee
+0,Espresso House,Hamburg,53.55277,10.003656,Coffee Shop,Kurze Mühren 4,Deutschland,Germany,Hamburg,coffee
+0,Die Pharaonen,Hamburg,53.564264,9.982006,Café,An der Verbindungsbahn 10,Deutschland,Germany,Hamburg,coffee
+0,Dunkin',Hamburg,53.56084520442442,9.989681640181516,Donut Shop,"Theodor-Heuss-Platz 1, Dammtor Bahnhof",Deutschland,Germany,Hamburg,coffee
+0,Tchibo,Hamburg,53.552020395085414,10.002776115302952,Coffee Shop,Spitalerstraße 10,Deutschland,Germany,Hamburg,coffee
+0,Roncalli Grand Cafe,Hamburg,53.55141313047384,10.002664528673142,Café,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,McCafé,Hamburg,53.552852125468654,10.006043578825043,Coffee Shop,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,coffee
+0,Weltcafé ElbFaire,Hamburg,53.542716747082146,10.002576586872193,Café,Shanghaiallee 12,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.557930581429076,10.01198006949971,Coffee Shop,Lange Reihe,Deutschland,Germany,Hamburg,coffee
+0,Public Coffee Roasters,Hamburg,53.54695300323186,9.997439752535662,Coffee Shop,Brandstwiete 3,Deutschland,Germany,Hamburg,coffee
+0,Mutterland Cölln's,Hamburg,53.5488317399098,9.99415552311946,German Restaurant,Brodschrangen 1-5,Deutschland,Germany,Hamburg,coffee
+0,Happy Waffel,Hamburg,53.550257,10.001689,Café,"Jakobikirchhof 9, 20095 Hamburg",Deutschland,Germany,Hamburg,coffee
+0,Café Paris,Hamburg,53.55010564784363,9.994227397979342,Café,Rathausstr. 4,Deutschland,Germany,Hamburg,coffee
+0,Espresso House,Hamburg,53.551727,9.998238,Coffee Shop,Alstertor 1,Deutschland,Germany,Hamburg,coffee
+0,Elbgold,Hamburg,53.54976397192337,9.992869290815168,Coffee Shop,Schauenburgerstr. 50,Deutschland,Germany,Hamburg,coffee
+0,JOE & THE JUICE,Hamburg,53.551724,9.994995,Juice Bar,Ballindamm 40,Deutschland,Germany,Hamburg,coffee
+0,ZEIT Café,Hamburg,53.549735,9.998512,Café,Speersort 1,Deutschland,Germany,Hamburg,coffee
+0,The Coffee Shop,Hamburg,53.54901729072264,9.99215494050129,Café,Börsenbrücke 4,Deutschland,Germany,Hamburg,coffee
+0,Elbgold,Hamburg,53.55314607846044,9.991722106933594,Coffee Shop,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,coffee
+0,Mit freundlichen Grüßen,Hamburg,53.553018,9.99251,Café,Jungfernstieg 14,Deutschland,Germany,Hamburg,coffee
+0,The Coffee Shop,Hamburg,53.552525,9.991009,Coffee Shop,Poststr. 6a,Deutschland,Germany,Hamburg,coffee
+0,Nord Coast Coffee Roastery,Hamburg,53.54657553211275,9.98801917321201,Coffee Roaster,Deichstr. 9,Deutschland,Germany,Hamburg,coffee
+0,Torrefaktum,Hamburg,53.54224547211993,10.00450574581402,Coffee Shop,Yokohamastrasse,Deutschland,Germany,Hamburg,coffee
+0,Playground Coffee,Hamburg,53.55117144725757,9.992224181514759,Coffee Shop,Rathausmarkt 1,Deutschland,Germany,Hamburg,coffee
+0,Zweiradperle,Hamburg,53.549356931139826,10.004183773462204,Bike Shop,Altstädter Str. 3-7,Deutschland,Germany,Hamburg,coffee
+0,Wasserschloss,Hamburg,53.5455343456418,9.999734962388025,Tea Room,Dienerreihe 4,Deutschland,Germany,Hamburg,coffee
+0,Public Coffee Roasters,Hamburg,53.551372,9.982597,Coffee Shop,Wexstr. 28,Deutschland,Germany,Hamburg,coffee
+0,Enjoy Coffee Bar,Hamburg,53.5531358263793,10.00138546939593,Café,Rosenstrasse 17,Deutschland,Germany,Hamburg,coffee
+0,Hunt Coffee,,53.555218,9.990553,Coffee Shop,,Deutschland,Germany,Hamburg,coffee
+0,Nasch,Hamburg,53.55552820181528,9.984067082405089,Vegetarian / Vegan Restaurant,Caffamacherreihe 49,Deutschland,Germany,Hamburg,coffee
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,coffee
+0,Schönes Leben,Hamburg,53.54546788947242,9.997275712373423,German Restaurant,Alter Wandrahm 15,Deutschland,Germany,Hamburg,coffee
+0,Luicella's,Hamburg,53.55966336021095,10.014306779140176,Ice Cream Shop,Lange Reihe 113,Deutschland,Germany,Hamburg,coffee
+0,Tee Gschwendner,Hamburg,53.55064569545186,9.995851467485807,Tea Room,Bergstr. 14,Deutschland,Germany,Hamburg,coffee
+0,Café Gnosa,Hamburg,53.5587352873505,10.012909861818677,Café,Lange Reihe 93,Deutschland,Germany,Hamburg,coffee
+0,Orogelato,Hamburg,53.54345558296623,9.997959313422589,Ice Cream Shop,,Deutschland,Germany,Hamburg,coffee
+0,JOE & THE JUICE,Hamburg,53.551924,9.987508,Juice Bar,Große Bleichen 35,Deutschland,Germany,Hamburg,coffee
+0,HEJPAPA,Hamburg,53.554262002751706,9.979817301092147,Café,Poolstr. 32,Deutschland,Germany,Hamburg,coffee
+0,Kaffeerösterei Speicherstadt,Hamburg,53.543691,9.98802,Coffee Shop,Kehrwieder 5,Deutschland,Germany,Hamburg,coffee
+0,Wonder Waffel,Hamburg,53.552282,10.001684,Coffee Shop,Lilienstraße 15,Deutschland,Germany,Hamburg,coffee
+0,I Vigneri Caffé e Alimentari,Hamburg,53.54913679751935,9.993889331817625,Café,Kleine Johannisstr.,Deutschland,Germany,Hamburg,coffee
+0,Meßmer Momentum,Hamburg,53.54169366069786,9.99117844200816,Tea Room,Am Kaiserkai 10,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55008571762237,10.005046084361037,Coffee Shop,Steinstrasse 5-7,Deutschland,Germany,Hamburg,coffee
+0,Milch,Hamburg,53.546051,9.975681,Café,Ditmar-Koel-Str. 22,Deutschland,Germany,Hamburg,coffee
+0,Le Velo,Hamburg,53.55289876172075,9.98814283957493,Bike Shop,,Deutschland,Germany,Hamburg,coffee
+0,Café Koppel,Hamburg,53.558304295674674,10.011780244257638,Vegetarian / Vegan Restaurant,Koppel 66,Deutschland,Germany,Hamburg,coffee
+0,Compagnie Coloniale,Hamburg,53.55150701309888,10.00297156215836,Gift Shop,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,Lieblingsplatz,Hamburg,53.54274175793335,9.997962956782846,Sandwich Place,Osakaallee 6-8,Deutschland,Germany,Hamburg,coffee
+0,Café Johanna,Hamburg,53.54698600862621,9.97504130430151,Café,Venusberg 26,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55216355708212,9.986245678618697,Café,Große Bleichen 68,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.555029,9.991027,Coffee Shop,Neuer Jungfernstieg 5,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.551519606021124,9.994807118144589,Coffee Shop,Bergstr. 26,Deutschland,Germany,Hamburg,coffee
+0,Arepa Café,Hamburg,53.55485307914729,10.012283311594313,Arepa Restaurant,Hansaplatz 12,Deutschland,Germany,Hamburg,coffee
+0,MAYA Kaffeerösterei,Hamburg,53.54604512407237,10.024439503405665,Coffee Shop,Hammerbrookstr. 75,Deutschland,Germany,Hamburg,coffee
+0,Back-Lava,Hamburg,53.5544261054279,10.014766724716651,Café,Steindamm 62,Deutschland,Germany,Hamburg,coffee
+0,Fleetschlösschen,Hamburg,53.54441770670834,9.997967262267135,Bar,Brooktorkai 17,Deutschland,Germany,Hamburg,coffee
+0,Wohnhalle,Hamburg,53.555428,9.991658,Tea Room,Neuer Jungfernstieg 9-14,Deutschland,Germany,Hamburg,coffee
+0,Pausenschön,Hamburg,53.55033813825192,9.982270390514426,Café,Steinwegpassage,Deutschland,Germany,Hamburg,coffee
+0,Bar Levante,Hamburg,53.551481974592114,10.003231816355315,Café,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,ALEX,Hamburg,53.5444664,9.975225,Café,Vorsetzen 72,Deutschland,Germany,Hamburg,coffee
+0,milchglas,Hamburg,53.550385560276936,9.982182702825423,Café,Alter Steinweg 11,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.543921630249166,9.978921105237154,Coffee Shop,Vorsetzen 31,Deutschland,Germany,Hamburg,coffee
+0,Café Minah,Hamburg,53.544958,9.985393,Café,Kajen 1,Deutschland,Germany,Hamburg,coffee
+0,Café Uhrlaub,Hamburg,53.557894709151554,10.01141161737966,Café,Lange Reihe 63,Deutschland,Germany,Hamburg,coffee
+0,Favoloso,Hamburg,53.55727606923115,9.989002346992493,Café,Dammtorstr. 25,Deutschland,Germany,Hamburg,coffee
+0,Gretchens Villa,Hamburg,53.55844735730907,9.974244803810398,Café,Marktstr. 142,Deutschland,Germany,Hamburg,coffee
+0,Brick's,Hamburg,53.55233655696498,9.987692854945264,Tea Room,Grosse Bleichen,Deutschland,Germany,Hamburg,coffee
+0,Alte Liebe Restaurant,Hamburg,53.543189,9.99964,German Restaurant,Koreastrasse 1,Deutschland,Germany,Hamburg,coffee
+0,Pastelaria Caravela,Hamburg,53.55714926844718,9.989889987061963,Café,Colonnaden 43,Deutschland,Germany,Hamburg,coffee
+0,Klein & Kaiserlich,Hamburg,53.541568,9.990231,Café,Am Kaiserkai 26,Deutschland,Germany,Hamburg,coffee
+0,ALEX,Hamburg,53.55410512292068,9.992044506946822,Café,Jungfernstieg 54,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.55125630451121,10.000930394719328,Coffee Shop,Barkhof 3,Deutschland,Germany,Hamburg,coffee
+0,Tchibo,Hamburg,53.55065807059266,9.994374659493145,Coffee Shop,Rathausmarkt 10,Deutschland,Germany,Hamburg,coffee
+0,Golden Temple Teehaus,Hamburg,53.56486873817241,9.983595983596958,Tea Room,Grindelallee 26,Deutschland,Germany,Hamburg,coffee
+0,Amber Cafe,Hamburg,53.54600639379717,9.981471233463232,Café,Schaarsteinwegsbrücke 2,Deutschland,Germany,Hamburg,coffee
+0,Café Bel Dì,Hamburg,53.55724776288684,10.01102658224534,Coffee Shop,Lange Reihe 47,Deutschland,Germany,Hamburg,coffee
+0,Cuccis,Hamburg,53.55247608969291,10.007375529983774,Café,Hachmannplatz 16,Deutschland,Germany,Hamburg,coffee
+0,Coffee & Cakes,Hamburg,53.54616203844147,9.976416509524036,Café,Ditmar-Koel-Str. 8,Deutschland,Germany,Hamburg,coffee
+0,Café Schöne Aussichten,Hamburg,53.55847807857473,9.98577823804826,Café,Gorch-Fock-Wall 4,Deutschland,Germany,Hamburg,coffee
+0,WIENER KAFFEE,Hamburg,53.55536464515777,10.015952044941361,Restaurant,Steindamm 63,Deutschland,Germany,Hamburg,coffee
+0,Genuss Speicher,Hamburg,53.54461076169492,9.996850490570067,Coffee Shop,St. Annenufer 2,Deutschland,Germany,Hamburg,coffee
+0,Monkey Donuts,Hamburg,53.552461307317266,10.000819998282592,Donut Shop,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,coffee
+0,Peaberries,Hamburg,53.55762988976144,10.010600933813402,Coffee Shop,Gurlittstr. 48,Deutschland,Germany,Hamburg,coffee
+0,Suliko - Georgian Cuisine & Wine,Hamburg,53.567679,9.995322,Restaurant,Mittelweg 24,Deutschland,Germany,Hamburg,coffee
+0,Villani,Hamburg,53.55574583390415,9.985769218299536,Café,,Deutschland,Germany,Hamburg,coffee
+0,PANTER Cafebarkitchen,Hamburg,53.55841948768493,9.97456474519612,Coffee Shop,Marktstr. 3,Deutschland,Germany,Hamburg,coffee
+0,Westwind,Hamburg,53.555783700007446,10.0080091957785,German Restaurant,Spadenteich 1,Deutschland,Germany,Hamburg,coffee
+0,Palang Good Coffee,Hamburg,53.54832103648588,10.001680673103122,Coffee Shop,Fischertwiete 1,Deutschland,Germany,Hamburg,coffee
+0,Café Punto Ernesto,Hamburg,53.55512682359627,10.006518533694713,Café,Glockengießerwall 8 - 10,Deutschland,Germany,Hamburg,coffee
+0,Bodos Bootssteg,Hamburg,53.56730541671698,10.001756884745618,Café,Harvestehuder Weg 1b,Deutschland,Germany,Hamburg,coffee
+0,Dunkin',Hamburg,53.55344340246483,10.006318699694134,Donut Shop,"Glockengießer Wall 8-10, Hauptbahnhof Hamburg",Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.54984936142328,10.000668319011094,Coffee Shop,Steinstr. 25,Deutschland,Germany,Hamburg,coffee
+0,Starbucks,Hamburg,53.560769406445544,9.989619197139975,Coffee Shop,Bahnhof Dammtor,Deutschland,Germany,Hamburg,coffee
+0,Double Coffee,Hamburg,53.564929106136354,9.98681608511257,Coffee Shop,Schlüterstr. 12,Deutschland,Germany,Hamburg,coffee
+0,Vivet,Hamburg,53.551822,10.00258,Café,Spitalerstr. 9,Deutschland,Germany,Hamburg,coffee
+0,Campus Suite,Hamburg,53.55356598290344,10.002743847055966,Coffee Shop,Brandsende 2-4,Deutschland,Germany,Hamburg,coffee
+0,Cafe Dell' Arte,Hamburg,53.56342118163054,9.987887843388629,Coffee Shop,Edmund-Siemens-Allee 1,Deutschland,Germany,Hamburg,coffee
+0,Dat Backhus,Hamburg,53.556667850688406,10.010307829676455,Bakery,Lange Reihe 29,Deutschland,Germany,Hamburg,coffee
+0,Cafe Curios,Hamburg,53.554820060379484,10.012420216211412,Café,Hansaplatz,Deutschland,Germany,Hamburg,coffee
+0,Stadtbäckerei,Hamburg,53.557236286059386,10.010979858956652,Bakery,Lange Reihe 52,Deutschland,Germany,Hamburg,coffee
+0,Espresso House,Hamburg,53.55277,10.003656,Coffee Shop,Kurze Mühren 4,Deutschland,Germany,Hamburg,coffee
+0,Die Pharaonen,Hamburg,53.564264,9.982006,Café,An der Verbindungsbahn 10,Deutschland,Germany,Hamburg,coffee
+0,Dunkin',Hamburg,53.56084520442442,9.989681640181516,Donut Shop,"Theodor-Heuss-Platz 1, Dammtor Bahnhof",Deutschland,Germany,Hamburg,coffee
+0,Tchibo,Hamburg,53.552020395085414,10.002776115302952,Coffee Shop,Spitalerstraße 10,Deutschland,Germany,Hamburg,coffee
+0,Roncalli Grand Cafe,Hamburg,53.55141313047384,10.002664528673142,Café,Mönckebergstr. 7,Deutschland,Germany,Hamburg,coffee
+0,McCafé,Hamburg,53.552852125468654,10.006043578825043,Coffee Shop,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,coffee
+0,Weltcafé ElbFaire,Hamburg,53.542716747082146,10.002576586872193,Café,Shanghaiallee 12,Deutschland,Germany,Hamburg,coffee
+0,Balzac Coffee,Hamburg,53.557930581429076,10.01198006949971,Coffee Shop,Lange Reihe,Deutschland,Germany,Hamburg,coffee
+0,Eiscafe Triboli,Hamburg,53.55715853136839,10.010877462576795,Ice Cream Shop,Lange Reihe,Deutschland,Germany,Hamburg,coffee
+0,Team Breakout Games,Hamburg,53.55395580451885,10.001281303005959,General Entertainment,,Deutschland,Germany,Hamburg,entertainment
+0,Hamburg Dungeon,Hamburg,53.5438402,9.98944,General Entertainment,Kehrwieder 2,Deutschland,Germany,Hamburg,entertainment
+0,Wasser-Licht-Konzert,Hamburg,53.56249597945552,9.981192112531204,General Entertainment,Messeplatz,Deutschland,Germany,Hamburg,entertainment
+0,TeamEscape Hamburg,Hamburg,53.5538089436433,10.011355876922607,General Entertainment,Bremer Reihe 24,Deutschland,Germany,Hamburg,entertainment
+0,Alster & Vergnügen,Hamburg,53.55301169740798,9.995783394081801,General Entertainment,,Deutschland,Germany,Hamburg,entertainment
+0,Nordpol+,Hamburg,53.55467551641391,9.99949293509987,General Entertainment,Ballindamm 9,Deutschland,Germany,Hamburg,entertainment
+0,Hamburger DOM,Hamburg,53.554433557101376,9.970865249633789,Fair,Glacischaussee,Deutschland,Germany,Hamburg,entertainment
+0,Homepage Helden GmbH,Hamburg,53.554325224537294,9.988160148627685,General Entertainment,Poststraße 20,Deutschland,Germany,Hamburg,entertainment
+0,Hamburg Dungeon,Hamburg,53.5438402,9.98944,General Entertainment,Kehrwieder 2,Deutschland,Germany,Hamburg,entertainment
+0,Wasser-Licht-Konzert,Hamburg,53.56249597945552,9.981192112531204,General Entertainment,Messeplatz,Deutschland,Germany,Hamburg,entertainment
+0,TeamEscape Hamburg,Hamburg,53.5538089436433,10.011355876922607,General Entertainment,Bremer Reihe 24,Deutschland,Germany,Hamburg,entertainment
+0,Alster & Vergnügen,Hamburg,53.55301169740798,9.995783394081801,General Entertainment,,Deutschland,Germany,Hamburg,entertainment
+0,Nordpol+,Hamburg,53.55467551641391,9.99949293509987,General Entertainment,Ballindamm 9,Deutschland,Germany,Hamburg,entertainment
+0,Hamburger DOM,Hamburg,53.554433557101376,9.970865249633789,Fair,Glacischaussee,Deutschland,Germany,Hamburg,entertainment
+0,Homepage Helden GmbH,Hamburg,53.554325224537294,9.988160148627685,General Entertainment,Poststraße 20,Deutschland,Germany,Hamburg,entertainment
+0,Manufactum,Hamburg,53.54864933333955,10.001470893091716,Furniture / Home Store,Fischertwiete 2,Deutschland,Germany,Hamburg,shops
+0,Michelle Records,Hamburg,53.55237783887337,10.000934717740618,Record Shop,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,shops
+0,Yuanye-Markt,Hamburg,53.55072090773207,10.004543264014334,Grocery Store,Bugenhagenstr. 5,Deutschland,Germany,Hamburg,shops
+0,Levantehaus,Hamburg,53.551112802211485,10.003008842468262,Shopping Mall,Mönckebergstr. 7,Deutschland,Germany,Hamburg,shops
+0,LEGO Store,Hamburg,53.55192589064536,10.00240548714305,Toy / Game Store,Spitalerstr. 12,Deutschland,Germany,Hamburg,shops
+0,COS,Hamburg,53.55206577152224,9.991529389082988,Clothing Store,Neuer Wall 19,Deutschland,Germany,Hamburg,shops
+0,Mutterland Stammhaus,Hamburg,53.55493980889312,10.007610654611444,Gourmet Shop,Ernst-Merck-Str. 9,Deutschland,Germany,Hamburg,shops
+0,Apple Jungfernstieg,Hamburg,53.552856,9.9926903,Electronics Store,Jungfernstieg 12,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.55036056083423,10.00489179923261,Drugstore,Steinstraße 8,Deutschland,Germany,Hamburg,shops
+0,RITUALS...,Hamburg,53.55186177495071,9.995104049179854,Cosmetics Shop,,Deutschland,Germany,Hamburg,shops
+0,Flane,Hamburg,53.55125604018548,10.00255203256459,Candy Store,Mönckebergstr. 7,Deutschland,Germany,Hamburg,shops
+0,Weekday,Hamburg,53.5506588054527,9.994923245382404,Clothing Store,Mönckebergstrasse 22,Deutschland,Germany,Hamburg,shops
+0,P&B Press and Books,Hamburg,53.55327164097696,10.00585007126826,Bookstore,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,FREITAG Shop,Hamburg,53.549763365535746,10.006777164115878,Accessories Store,Klosterwall 9,Deutschland,Germany,Hamburg,shops
+0,Tommy Hilfiger,Hamburg,53.552952,9.989944,Clothing Store,Poststraße 9-11,Deutschland,Germany,Hamburg,shops
+0,Nord Coast Coffee Roastery,Hamburg,53.54657553211275,9.98801917321201,Coffee Roaster,Deichstr. 9,Deutschland,Germany,Hamburg,shops
+0,Alsterhaus,Hamburg,53.5529350594415,9.991583911359061,Department Store,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.551108788107925,9.994101766533731,Drugstore,Rathausmarkt 7,Deutschland,Germany,Hamburg,shops
+0,Illums Bolighus,Hamburg,53.551104124589145,9.988849435404125,Furniture / Home Store,Neuer Wall 54,Deutschland,Germany,Hamburg,shops
+0,EDEKA Böcker,Hamburg,53.541856,9.997725599999999,Supermarket,Überseeboulevard 4-10,Deutschland,Germany,Hamburg,shops
+0,Aēsop,Hamburg,53.55417375804046,9.988785990056721,Cosmetics Shop,Poststraße 22,Deutschland,Germany,Hamburg,shops
+0,Thalia,Hamburg,53.5529507,10.0031079,Bookstore,Spitalerstr. 8,Deutschland,Germany,Hamburg,shops
+0,Mutterland,Hamburg,53.55361236054188,9.989556821237667,Gourmet Shop,Poststr. 14-16,Deutschland,Germany,Hamburg,shops
+0,Depot,Hamburg,53.55216799573467,10.003090051719806,Furniture / Home Store,Spitalerstr. 10,Deutschland,Germany,Hamburg,shops
+0,LUSH,Hamburg,53.5519139895202,10.002381725672668,Cosmetics Shop,Spitalerstr. 7-9,Deutschland,Germany,Hamburg,shops
+0,SEPHORA,Hamburg,53.551141,10.004387,Cosmetics Shop,Mönckebergstr. 3,Deutschland,Germany,Hamburg,shops
+0,cream,Hamburg,53.55837762561553,10.012580073924072,Clothing Store,Lange Reihe 88,Deutschland,Germany,Hamburg,shops
+0,WORMLAND,Hamburg,53.55101324701195,9.997149192518346,Men's Store,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Planet Sports,Hamburg,53.555355855414625,9.988779777323773,Board Shop,Gänsemarkt 45,Deutschland,Germany,Hamburg,shops
+0,Zara,Hamburg,53.55182714434294,10.002428260787656,Clothing Store,Mönckebergstr. 10,Deutschland,Germany,Hamburg,shops
+0,Perfetto Feine Kost,Hamburg,53.55167226215428,9.997926136868216,Gourmet Shop,Karstadt,Deutschland,Germany,Hamburg,shops
+0,Anson's,Hamburg,53.55161516994683,10.003716076233955,Men's Store,Mönckebergstr. 8,Deutschland,Germany,Hamburg,shops
+0,Abercrombie & Fitch,Hamburg,53.55273656280975,9.990094006061554,Clothing Store,Poststr. 11,Deutschland,Germany,Hamburg,shops
+0,Nivea Haus,Hamburg,53.554512207746306,9.990854450425783,Cosmetics Shop,Jungfernstieg 51,Deutschland,Germany,Hamburg,shops
+0,Duske & Duske,Hamburg,53.55233634465312,9.987974466656961,Smoke Shop,Große Bleichen 36,Deutschland,Germany,Hamburg,shops
+0,Kaisergalerie,Hamburg,53.55243,9.989328,Shopping Mall,Große Bleichen 21-27,Deutschland,Germany,Hamburg,shops
+0,& other stories,Hamburg,53.55229485686353,9.99142959244227,Boutique,Neuer Wall 20,Deutschland,Germany,Hamburg,shops
+0,Wochenmarkt Großneumarkt,Hamburg,53.55038988878322,9.980097501476779,Farmers Market,Großneumarkt 5,Deutschland,Germany,Hamburg,shops
+0,EDEKA Niemerszein,Hamburg,53.55952394205088,10.014281860037489,Supermarket,Lange Reihe 110,Deutschland,Germany,Hamburg,shops
+0,WMF,Hamburg,53.55068989999999,9.999983199999999,Kitchen Supply Store,Mönckebergstr. 13,Deutschland,Germany,Hamburg,shops
+0,Das Fotohaus Wiesenhavern,Hamburg,53.55107202773831,10.000608029782278,Photography Studio,,Deutschland,Germany,Hamburg,shops
+0,UZwei,Hamburg,53.552075,9.989893,Boutique,,Deutschland,Germany,Hamburg,shops
+0,Saturn,Hamburg,53.551479,10.005482,Electronics Store,Mönckebergstr. 1,Deutschland,Germany,Hamburg,shops
+0,Oschätzchen,Hamburg,53.552885738458585,9.990835815763623,Gourmet Shop,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,shops
+0,Parfümerie Douglas,Hamburg,53.55188398642523,10.003640115264027,Perfume Shop,Mönckebergstr. 8,Deutschland,Germany,Hamburg,shops
+0,Tiger,Hamburg,53.54844103780208,9.989632667909786,Gift Shop,Großer Burstah 27,Deutschland,Germany,Hamburg,shops
+0,adidas,Hamburg,53.5508093,10.0001694,Sporting Goods Shop,"Moenckebergstrasse 13, Floor 2",Deutschland,Germany,Hamburg,shops
+0,Design Offices,Hamburg,53.54925901939446,9.995670481942621,Business Service,Domstr. 10,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.55262715844476,10.004361806828308,Drugstore,Spitalerstr. 4,Deutschland,Germany,Hamburg,shops
+0,EDEKA Schlemmermarkt Struve,Hamburg,53.5480848,9.9889395,Supermarket,Großer Burstah 31,Deutschland,Germany,Hamburg,shops
+0,Scotch & Soda,Hamburg,53.551415,9.9888996,Clothing Store,Neuer Wall 50,Deutschland,Germany,Hamburg,shops
+0,Hanse-Viertel,Hamburg,53.55340600140366,9.989048376900493,Shopping Mall,Poststr. 33,Deutschland,Germany,Hamburg,shops
+0,Edeka Schlemmer Markt,Hamburg,53.553333673627016,9.989202794666685,Supermarket,Poststr. 36,Deutschland,Germany,Hamburg,shops
+0,Thai Asian Supermarkt,Hamburg,53.555689005779165,10.008694148200673,Supermarket,Lange Reihe 1,Deutschland,Germany,Hamburg,shops
+0,Gudberg,Hamburg,53.55385533109702,9.979978953333768,Bookstore,,Deutschland,Germany,Hamburg,shops
+0,Winkel van Sinkel,Hamburg,53.551373,9.982606,Flower Shop,Wexstraße 28,Deutschland,Germany,Hamburg,shops
+0,idee. Creativmarkt,Hamburg,53.551694556108195,9.995698969452981,Arts & Crafts Store,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Alsterarkaden,Hamburg,53.55196302874621,9.99221468880734,Shopping Plaza,Alsterarkaden,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.54862113453769,9.989934672730442,Drugstore,Großer Burstah 18,Deutschland,Germany,Hamburg,shops
+0,REWE,Hamburg,53.55199345363536,10.005288015815267,Supermarket,Mönckebergstraße 2-4,Deutschland,Germany,Hamburg,shops
+0,Europa Passage,Hamburg,53.551680089737445,9.995841979980469,Shopping Mall,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Esprit,Hamburg,53.551063223902915,10.001093895042906,Clothing Store,Mönckebergstr. 11,Deutschland,Germany,Hamburg,shops
+0,Bolia,Hamburg,53.556191,9.988148,Furniture / Home Store,Dammtorstr. 30,Deutschland,Germany,Hamburg,shops
+0,MANGO,Hamburg,53.55112636472024,10.000475990216069,Women's Store,Mönckebergstr. 11,Deutschland,Germany,Hamburg,shops
+0,Thomas-i-Punkt,Hamburg,53.550778557126236,9.997703619732304,Men's Store,Mönckebergstraße 21,Deutschland,Germany,Hamburg,shops
+0,C&A,Hamburg,53.551298308275065,10.001519383558202,Clothing Store,Mönckebergstr. 9,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.54194340429971,9.997973822707864,Drugstore,Überseeboulevard 4-10,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.55050098706695,9.977372385067042,Supermarket,Neuer Steinweg 18,Deutschland,Germany,Hamburg,shops
+0,Alnatura,Hamburg,53.541539,9.998089,Organic Grocery,,Deutschland,Germany,Hamburg,shops
+0,Granit,Hamburg,53.55427227045639,9.988405500626978,Furniture / Home Store,Poststraße 20,Deutschland,Germany,Hamburg,shops
+0,Lindenbazar,Hamburg,53.55464145067245,10.017037704816275,Grocery Store,Lindenstr. 41,Deutschland,Germany,Hamburg,shops
+0,Fielmann,Hamburg,53.55437908559887,9.990107140319424,Optical Shop,Jungfernstieg 40,Deutschland,Germany,Hamburg,shops
+0,Galeria Karstadt Kaufhof,Hamburg,53.55097044,9.99816259,Department Store,Mönckebergstr. 16,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.5514685208989,10.0003979331797,Drugstore,Spitalerstr. 26b,Deutschland,Germany,Hamburg,shops
+0,H&M,Hamburg,53.551936,10.002144,Clothing Store,Spitalerstraße 12,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.55134256103897,9.996689906745928,Supermarket,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,CHANEL,Hamburg,53.5501946,9.9874689,Boutique,Neuer Wall 73-75,Deutschland,Germany,Hamburg,shops
+0,Nike,Hamburg,53.5528156,10.0049001,Sporting Goods Shop,Spitalerstr. 2,Deutschland,Germany,Hamburg,shops
+0,Zalando Outlet,Hamburg,53.55233007395178,9.990357126871547,Outlet Store,Poststr. 9,Deutschland,Germany,Hamburg,shops
+0,Sönmez Markt,Hamburg,53.55411476412792,10.013556577254795,Grocery Store,,Deutschland,Germany,Hamburg,shops
+0,Monki,Hamburg,53.55067121774191,9.995253048209346,Clothing Store,Mönckebergstraße 22,Deutschland,Germany,Hamburg,shops
+0,JAKO-O,Hamburg,53.55024,9.99779,Kids Store,Kreuslerstr. 2-8,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.551430414805765,9.996202005419182,Pharmacy,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Galeria Karstadt Kaufhof,Hamburg,53.5511288,10.0043406,Department Store,Mönckebergstr. 3,Deutschland,Germany,Hamburg,shops
+0,Louis Vuitton,Hamburg,53.5515509,9.9906276,Boutique,Neuer Wall 37,Deutschland,Germany,Hamburg,shops
+0,GALLERIA Passage,Hamburg,53.55287668609245,9.989377893373415,Shopping Mall,Große Bleichen 21,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.55586312228884,10.009279240079858,Drugstore,Lange Reihe 46,Deutschland,Germany,Hamburg,shops
+0,HSV City Store,Hamburg,53.549966141809854,9.996098745491723,Sporting Goods Shop,Schmiedstr. 2,Deutschland,Germany,Hamburg,shops
+0,Snipes,Hamburg,53.55063876391715,9.995756566672107,Shoe Store,Mönckebergstr. 25,Deutschland,Germany,Hamburg,shops
+0,Karstadt sports,Hamburg,53.55234462385286,10.004963894178672,Sporting Goods Shop,Lange Mühren 14,Deutschland,Germany,Hamburg,shops
+0,SportScheck,Hamburg,53.55061936034212,9.996235768157462,Sporting Goods Shop,Mönckebergstr. 18,Deutschland,Germany,Hamburg,shops
+0,Gänsemarkt Passage,Hamburg,53.55536411589848,9.989534048865586,Shopping Mall,Gänsemarkt 50,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.55600187068547,9.987856688071242,Pharmacy,Dammtorstr. 33-35,Deutschland,Germany,Hamburg,shops
+0,Perle Hamburg,Hamburg,53.55185046560627,10.000017428974388,Shopping Mall,Spitalerstr. 22-26,Deutschland,Germany,Hamburg,shops
+0,Görtz,Hamburg,53.551479,10.001785,Shoe Store,Spitalerstraße 11,Deutschland,Germany,Hamburg,shops
+0,YORMA'S,Hamburg,53.552376141751886,10.006651951421263,Food & Drink Shop,Kirchenallee 49,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.55326592872083,10.006615681002097,Drugstore,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.54577897512725,9.977081030277546,Supermarket,Brauerknechtgraben 47,Deutschland,Germany,Hamburg,shops
+0,Wandelhalle,Hamburg,53.55328528730589,10.006005995051472,Shopping Mall,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,Bleichenhof-Passagen,Hamburg,53.55187710885153,9.987769388681045,Shopping Mall,Bleichenbrücke 11,Deutschland,Germany,Hamburg,shops
+0,Michelle Records,Hamburg,53.55237783887337,10.000934717740618,Record Shop,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,shops
+0,Yuanye-Markt,Hamburg,53.55072090773207,10.004543264014334,Grocery Store,Bugenhagenstr. 5,Deutschland,Germany,Hamburg,shops
+0,Levantehaus,Hamburg,53.551112802211485,10.003008842468262,Shopping Mall,Mönckebergstr. 7,Deutschland,Germany,Hamburg,shops
+0,LEGO Store,Hamburg,53.55192589064536,10.00240548714305,Toy / Game Store,Spitalerstr. 12,Deutschland,Germany,Hamburg,shops
+0,COS,Hamburg,53.55206577152224,9.991529389082988,Clothing Store,Neuer Wall 19,Deutschland,Germany,Hamburg,shops
+0,Mutterland Stammhaus,Hamburg,53.55493980889312,10.007610654611444,Gourmet Shop,Ernst-Merck-Str. 9,Deutschland,Germany,Hamburg,shops
+0,Apple Jungfernstieg,Hamburg,53.552856,9.9926903,Electronics Store,Jungfernstieg 12,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.55036056083423,10.00489179923261,Drugstore,Steinstraße 8,Deutschland,Germany,Hamburg,shops
+0,RITUALS...,Hamburg,53.55186177495071,9.995104049179854,Cosmetics Shop,,Deutschland,Germany,Hamburg,shops
+0,Flane,Hamburg,53.55125604018548,10.00255203256459,Candy Store,Mönckebergstr. 7,Deutschland,Germany,Hamburg,shops
+0,Weekday,Hamburg,53.5506588054527,9.994923245382404,Clothing Store,Mönckebergstrasse 22,Deutschland,Germany,Hamburg,shops
+0,P&B Press and Books,Hamburg,53.55327164097696,10.00585007126826,Bookstore,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,FREITAG Shop,Hamburg,53.549763365535746,10.006777164115878,Accessories Store,Klosterwall 9,Deutschland,Germany,Hamburg,shops
+0,Tommy Hilfiger,Hamburg,53.552952,9.989944,Clothing Store,Poststraße 9-11,Deutschland,Germany,Hamburg,shops
+0,Nord Coast Coffee Roastery,Hamburg,53.54657553211275,9.98801917321201,Coffee Roaster,Deichstr. 9,Deutschland,Germany,Hamburg,shops
+0,Alsterhaus,Hamburg,53.5529350594415,9.991583911359061,Department Store,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.551108788107925,9.994101766533731,Drugstore,Rathausmarkt 7,Deutschland,Germany,Hamburg,shops
+0,Illums Bolighus,Hamburg,53.551104124589145,9.988849435404125,Furniture / Home Store,Neuer Wall 54,Deutschland,Germany,Hamburg,shops
+0,EDEKA Böcker,Hamburg,53.541856,9.997725599999999,Supermarket,Überseeboulevard 4-10,Deutschland,Germany,Hamburg,shops
+0,Aēsop,Hamburg,53.55417375804046,9.988785990056721,Cosmetics Shop,Poststraße 22,Deutschland,Germany,Hamburg,shops
+0,Thalia,Hamburg,53.5529507,10.0031079,Bookstore,Spitalerstr. 8,Deutschland,Germany,Hamburg,shops
+0,Mutterland,Hamburg,53.55361236054188,9.989556821237667,Gourmet Shop,Poststr. 14-16,Deutschland,Germany,Hamburg,shops
+0,Depot,Hamburg,53.55216799573467,10.003090051719806,Furniture / Home Store,Spitalerstr. 10,Deutschland,Germany,Hamburg,shops
+0,LUSH,Hamburg,53.5519139895202,10.002381725672668,Cosmetics Shop,Spitalerstr. 7-9,Deutschland,Germany,Hamburg,shops
+0,SEPHORA,Hamburg,53.551141,10.004387,Cosmetics Shop,Mönckebergstr. 3,Deutschland,Germany,Hamburg,shops
+0,cream,Hamburg,53.55837762561553,10.012580073924072,Clothing Store,Lange Reihe 88,Deutschland,Germany,Hamburg,shops
+0,WORMLAND,Hamburg,53.55101324701195,9.997149192518346,Men's Store,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Planet Sports,Hamburg,53.555355855414625,9.988779777323773,Board Shop,Gänsemarkt 45,Deutschland,Germany,Hamburg,shops
+0,Zara,Hamburg,53.55182714434294,10.002428260787656,Clothing Store,Mönckebergstr. 10,Deutschland,Germany,Hamburg,shops
+0,Perfetto Feine Kost,Hamburg,53.55167226215428,9.997926136868216,Gourmet Shop,Karstadt,Deutschland,Germany,Hamburg,shops
+0,Anson's,Hamburg,53.55161516994683,10.003716076233955,Men's Store,Mönckebergstr. 8,Deutschland,Germany,Hamburg,shops
+0,Abercrombie & Fitch,Hamburg,53.55273656280975,9.990094006061554,Clothing Store,Poststr. 11,Deutschland,Germany,Hamburg,shops
+0,Nivea Haus,Hamburg,53.554512207746306,9.990854450425783,Cosmetics Shop,Jungfernstieg 51,Deutschland,Germany,Hamburg,shops
+0,Duske & Duske,Hamburg,53.55233634465312,9.987974466656961,Smoke Shop,Große Bleichen 36,Deutschland,Germany,Hamburg,shops
+0,Kaisergalerie,Hamburg,53.55243,9.989328,Shopping Mall,Große Bleichen 21-27,Deutschland,Germany,Hamburg,shops
+0,& other stories,Hamburg,53.55229485686353,9.99142959244227,Boutique,Neuer Wall 20,Deutschland,Germany,Hamburg,shops
+0,Wochenmarkt Großneumarkt,Hamburg,53.55038988878322,9.980097501476779,Farmers Market,Großneumarkt 5,Deutschland,Germany,Hamburg,shops
+0,EDEKA Niemerszein,Hamburg,53.55952394205088,10.014281860037489,Supermarket,Lange Reihe 110,Deutschland,Germany,Hamburg,shops
+0,WMF,Hamburg,53.55068989999999,9.999983199999999,Kitchen Supply Store,Mönckebergstr. 13,Deutschland,Germany,Hamburg,shops
+0,Das Fotohaus Wiesenhavern,Hamburg,53.55107202773831,10.000608029782278,Photography Studio,,Deutschland,Germany,Hamburg,shops
+0,UZwei,Hamburg,53.552075,9.989893,Boutique,,Deutschland,Germany,Hamburg,shops
+0,Saturn,Hamburg,53.551479,10.005482,Electronics Store,Mönckebergstr. 1,Deutschland,Germany,Hamburg,shops
+0,Oschätzchen,Hamburg,53.552885738458585,9.990835815763623,Gourmet Shop,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,shops
+0,Parfümerie Douglas,Hamburg,53.55188398642523,10.003640115264027,Perfume Shop,Mönckebergstr. 8,Deutschland,Germany,Hamburg,shops
+0,Tiger,Hamburg,53.54844103780208,9.989632667909786,Gift Shop,Großer Burstah 27,Deutschland,Germany,Hamburg,shops
+0,adidas,Hamburg,53.5508093,10.0001694,Sporting Goods Shop,"Moenckebergstrasse 13, Floor 2",Deutschland,Germany,Hamburg,shops
+0,Design Offices,Hamburg,53.54925901939446,9.995670481942621,Business Service,Domstr. 10,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.55262715844476,10.004361806828308,Drugstore,Spitalerstr. 4,Deutschland,Germany,Hamburg,shops
+0,EDEKA Schlemmermarkt Struve,Hamburg,53.5480848,9.9889395,Supermarket,Großer Burstah 31,Deutschland,Germany,Hamburg,shops
+0,Scotch & Soda,Hamburg,53.551415,9.9888996,Clothing Store,Neuer Wall 50,Deutschland,Germany,Hamburg,shops
+0,Hanse-Viertel,Hamburg,53.55340600140366,9.989048376900493,Shopping Mall,Poststr. 33,Deutschland,Germany,Hamburg,shops
+0,Edeka Schlemmer Markt,Hamburg,53.553333673627016,9.989202794666685,Supermarket,Poststr. 36,Deutschland,Germany,Hamburg,shops
+0,Thai Asian Supermarkt,Hamburg,53.555689005779165,10.008694148200673,Supermarket,Lange Reihe 1,Deutschland,Germany,Hamburg,shops
+0,Gudberg,Hamburg,53.55385533109702,9.979978953333768,Bookstore,,Deutschland,Germany,Hamburg,shops
+0,Winkel van Sinkel,Hamburg,53.551373,9.982606,Flower Shop,Wexstraße 28,Deutschland,Germany,Hamburg,shops
+0,idee. Creativmarkt,Hamburg,53.551694556108195,9.995698969452981,Arts & Crafts Store,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Alsterarkaden,Hamburg,53.55196302874621,9.99221468880734,Shopping Plaza,Alsterarkaden,Deutschland,Germany,Hamburg,shops
+0,dm-drogerie markt,Hamburg,53.54862113453769,9.989934672730442,Drugstore,Großer Burstah 18,Deutschland,Germany,Hamburg,shops
+0,REWE,Hamburg,53.55199345363536,10.005288015815267,Supermarket,Mönckebergstraße 2-4,Deutschland,Germany,Hamburg,shops
+0,Europa Passage,Hamburg,53.551680089737445,9.995841979980469,Shopping Mall,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Esprit,Hamburg,53.551063223902915,10.001093895042906,Clothing Store,Mönckebergstr. 11,Deutschland,Germany,Hamburg,shops
+0,Bolia,Hamburg,53.556191,9.988148,Furniture / Home Store,Dammtorstr. 30,Deutschland,Germany,Hamburg,shops
+0,MANGO,Hamburg,53.55112636472024,10.000475990216069,Women's Store,Mönckebergstr. 11,Deutschland,Germany,Hamburg,shops
+0,Thomas-i-Punkt,Hamburg,53.550778557126236,9.997703619732304,Men's Store,Mönckebergstraße 21,Deutschland,Germany,Hamburg,shops
+0,C&A,Hamburg,53.551298308275065,10.001519383558202,Clothing Store,Mönckebergstr. 9,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.54194340429971,9.997973822707864,Drugstore,Überseeboulevard 4-10,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.55050098706695,9.977372385067042,Supermarket,Neuer Steinweg 18,Deutschland,Germany,Hamburg,shops
+0,Alnatura,Hamburg,53.541539,9.998089,Organic Grocery,,Deutschland,Germany,Hamburg,shops
+0,Granit,Hamburg,53.55427227045639,9.988405500626978,Furniture / Home Store,Poststraße 20,Deutschland,Germany,Hamburg,shops
+0,Lindenbazar,Hamburg,53.55464145067245,10.017037704816275,Grocery Store,Lindenstr. 41,Deutschland,Germany,Hamburg,shops
+0,Fielmann,Hamburg,53.55437908559887,9.990107140319424,Optical Shop,Jungfernstieg 40,Deutschland,Germany,Hamburg,shops
+0,Galeria Karstadt Kaufhof,Hamburg,53.55097044,9.99816259,Department Store,Mönckebergstr. 16,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.5514685208989,10.0003979331797,Drugstore,Spitalerstr. 26b,Deutschland,Germany,Hamburg,shops
+0,H&M,Hamburg,53.551936,10.002144,Clothing Store,Spitalerstraße 12,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.55134256103897,9.996689906745928,Supermarket,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,CHANEL,Hamburg,53.5501946,9.9874689,Boutique,Neuer Wall 73-75,Deutschland,Germany,Hamburg,shops
+0,Nike,Hamburg,53.5528156,10.0049001,Sporting Goods Shop,Spitalerstr. 2,Deutschland,Germany,Hamburg,shops
+0,Zalando Outlet,Hamburg,53.55233007395178,9.990357126871547,Outlet Store,Poststr. 9,Deutschland,Germany,Hamburg,shops
+0,Sönmez Markt,Hamburg,53.55411476412792,10.013556577254795,Grocery Store,,Deutschland,Germany,Hamburg,shops
+0,Monki,Hamburg,53.55067121774191,9.995253048209346,Clothing Store,Mönckebergstraße 22,Deutschland,Germany,Hamburg,shops
+0,JAKO-O,Hamburg,53.55024,9.99779,Kids Store,Kreuslerstr. 2-8,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.551430414805765,9.996202005419182,Pharmacy,Ballindamm 40,Deutschland,Germany,Hamburg,shops
+0,Galeria Karstadt Kaufhof,Hamburg,53.5511288,10.0043406,Department Store,Mönckebergstr. 3,Deutschland,Germany,Hamburg,shops
+0,Louis Vuitton,Hamburg,53.5515509,9.9906276,Boutique,Neuer Wall 37,Deutschland,Germany,Hamburg,shops
+0,GALLERIA Passage,Hamburg,53.55287668609245,9.989377893373415,Shopping Mall,Große Bleichen 21,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.55586312228884,10.009279240079858,Drugstore,Lange Reihe 46,Deutschland,Germany,Hamburg,shops
+0,HSV City Store,Hamburg,53.549966141809854,9.996098745491723,Sporting Goods Shop,Schmiedstr. 2,Deutschland,Germany,Hamburg,shops
+0,Snipes,Hamburg,53.55063876391715,9.995756566672107,Shoe Store,Mönckebergstr. 25,Deutschland,Germany,Hamburg,shops
+0,Karstadt sports,Hamburg,53.55234462385286,10.004963894178672,Sporting Goods Shop,Lange Mühren 14,Deutschland,Germany,Hamburg,shops
+0,SportScheck,Hamburg,53.55061936034212,9.996235768157462,Sporting Goods Shop,Mönckebergstr. 18,Deutschland,Germany,Hamburg,shops
+0,Gänsemarkt Passage,Hamburg,53.55536411589848,9.989534048865586,Shopping Mall,Gänsemarkt 50,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.55600187068547,9.987856688071242,Pharmacy,Dammtorstr. 33-35,Deutschland,Germany,Hamburg,shops
+0,Perle Hamburg,Hamburg,53.55185046560627,10.000017428974388,Shopping Mall,Spitalerstr. 22-26,Deutschland,Germany,Hamburg,shops
+0,Görtz,Hamburg,53.551479,10.001785,Shoe Store,Spitalerstraße 11,Deutschland,Germany,Hamburg,shops
+0,YORMA'S,Hamburg,53.552376141751886,10.006651951421263,Food & Drink Shop,Kirchenallee 49,Deutschland,Germany,Hamburg,shops
+0,Rossmann,Hamburg,53.55326592872083,10.006615681002097,Drugstore,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,REWE CITY,Hamburg,53.54577897512725,9.977081030277546,Supermarket,Brauerknechtgraben 47,Deutschland,Germany,Hamburg,shops
+0,Wandelhalle,Hamburg,53.55328528730589,10.006005995051472,Shopping Mall,Glockengießerwall 8-10,Deutschland,Germany,Hamburg,shops
+0,Bleichenhof-Passagen,Hamburg,53.55187710885153,9.987769388681045,Shopping Mall,Bleichenbrücke 11,Deutschland,Germany,Hamburg,shops
+0,Budnikowsky,Hamburg,53.55124762650417,9.982363876578766,Drugstore,Wexstr. 27,Deutschland,Germany,Hamburg,shops
+0,Spielplatz Grasbrookpark,Hamburg,53.540215859258005,9.995338449214403,Playground,Großer Grasbrook,Deutschland,Germany,Hamburg,playground
+0,Lohsepark,Hamburg,53.54267678552332,10.005046354781369,Park,Am Lohsepark,Deutschland,Germany,Hamburg,playground
+0,Großer Spielplatz und Bullerberge,Hamburg,53.56054477741453,9.981968401623497,Playground,Planten un Blomen,Deutschland,Germany,Hamburg,playground
+0,Planten un Blomen,Hamburg,53.56055173200356,9.983911514282227,Park,Messeplatz,Deutschland,Germany,Hamburg,playground
+0,Spielplatz Wallanlage,Hamburg,53.554248172412564,9.974907368097043,Playground,Glacischaussee,Deutschland,Germany,Hamburg,playground
+0,Lohsepark,Hamburg,53.54267678552332,10.005046354781369,Park,Am Lohsepark,Deutschland,Germany,Hamburg,playground
+0,Großer Spielplatz und Bullerberge,Hamburg,53.56054477741453,9.981968401623497,Playground,Planten un Blomen,Deutschland,Germany,Hamburg,playground
+0,Planten un Blomen,Hamburg,53.56055173200356,9.983911514282227,Park,Messeplatz,Deutschland,Germany,Hamburg,playground
+0,Spielplatz Wallanlage,Hamburg,53.554248172412564,9.974907368097043,Playground,Glacischaussee,Deutschland,Germany,Hamburg,playground
+0,Le Lion,Hamburg,53.55012502464838,9.994435961824273,Cocktail Bar,Rathausstr. 3,Deutschland,Germany,Hamburg,nightlife
+0,Nachtasyl,Hamburg,53.5519716980625,9.998252615332603,Nightclub,Alstertor 1,Deutschland,Germany,Hamburg,nightlife
+0,Apples Restaurant,Hamburg,53.55138975420903,10.003105940307595,Restaurant,Bugenhagenstr. 8,Deutschland,Germany,Hamburg,nightlife
+0,Central Congress,Hamburg,53.55012401363864,10.004012146962118,Bar,Steinstr. 5-7,Deutschland,Germany,Hamburg,nightlife
+0,cohibar,Hamburg,53.552515355955954,10.000686774553706,Hookah Bar,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,nightlife
+0,Markthalle,Hamburg,53.54901520977141,10.006477719188359,Music Venue,Klosterwall 11,Deutschland,Germany,Hamburg,nightlife
+0,Die Bank,Hamburg,53.55350146971234,9.98722585588909,Restaurant,Hohe Bleichen 17,Deutschland,Germany,Hamburg,nightlife
+0,Brauhaus Joh. Albrecht,Hamburg,53.55053185163435,9.989800032975113,Brewery,Adolphsbrücke 7,Deutschland,Germany,Hamburg,nightlife
+0,Tipsy Baker Bar,Hamburg,53.558003772071494,9.989643983040544,Cocktail Bar,Esplanade 29,Deutschland,Germany,Hamburg,nightlife
+0,Boilerman Bar,Hamburg,53.54245459131936,9.998270324777048,Bar,Osakaallee 12,Deutschland,Germany,Hamburg,nightlife
+0,Hans im Glück - Burgergrill,Hamburg,53.548597,9.992385,Burger Joint,"Börsenbrücke 10, Trostbrücke 4-6",Deutschland,Germany,Hamburg,nightlife
+0,Irish Pub in the Fleetenkieker,Hamburg,53.54868564944223,9.992608090274839,Irish Pub,Börsenbrücke 10,Deutschland,Germany,Hamburg,nightlife
+0,Hunt Coffee,,53.555218,9.990553,Coffee Shop,,Deutschland,Germany,Hamburg,nightlife
+0,Brooklyn Burger Bar,Hamburg,53.54866568794967,9.996709782288885,Burger Joint,Alter Fischmarkt 3,Deutschland,Germany,Hamburg,nightlife
+0,[m]eatery,Hamburg,53.55663885227333,9.986837671491438,Steakhouse,Drehbahn 49,Deutschland,Germany,Hamburg,nightlife
+0,Oberhafen-Kantine,Hamburg,53.5445693351864,10.006921385315067,Gastropub,Stockmeyerstr. 39,Deutschland,Germany,Hamburg,nightlife
+0,Klimperkiste,Hamburg,53.55771,9.9905615,Pub,Esplanade 18,Deutschland,Germany,Hamburg,nightlife
+0,Seven Heads Bar,Hamburg,53.54950013433715,9.987881183624268,Hotel Bar,Alter Wall 40,Deutschland,Germany,Hamburg,nightlife
+0,barca - an der Alster,Hamburg,53.55851356439605,10.005615648642788,Restaurant,An der Alster 67a,Deutschland,Germany,Hamburg,nightlife
+0,Ruby Lotti Hotel & Bar,Hamburg,53.550784869421484,9.98522318935248,Hotel,Düsternstraße 1,Deutschland,Germany,Hamburg,nightlife
+0,Nagel,Hamburg,53.5527240668893,10.0087611941861,German Restaurant,Kirchenallee 57,Deutschland,Germany,Hamburg,nightlife
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,nightlife
+0,Veuve Clicquot,Hamburg,53.55293926695286,9.991467358334763,Wine Bar,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,nightlife
+0,Atlantic Bar,Hamburg,53.55715552979616,10.004598471348444,Hotel Bar,An der Alster 72-79,Deutschland,Germany,Hamburg,nightlife
+0,Bar Noir,,53.551442,9.986539,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Heimat Küche + Bar,Hamburg,53.541425937394614,9.998990734918541,Bistro,Überseeallee 5,Deutschland,Germany,Hamburg,nightlife
+0,Neumann's Bistro & Weinbar,Hamburg,53.55904999481806,10.013027938019475,Wine Bar,Lange Reihe 101,Deutschland,Germany,Hamburg,nightlife
+0,Frau Möller,Hamburg,53.55885232822514,10.013241684062628,Pub,Lange Reihe 96,Deutschland,Germany,Hamburg,nightlife
+0,Generator Lounge,Hamburg,53.55275959796685,10.009235794755421,Hotel Bar,Steintorplatz 3,Deutschland,Germany,Hamburg,nightlife
+0,CIU',Hamburg,53.55423278008723,9.998982581357064,Cocktail Bar,Ballindamm 14/15,Deutschland,Germany,Hamburg,nightlife
+0,Bar Oorlam,Hamburg,53.553392,9.979864,Beer Bar,Kohlhöfen 29,Deutschland,Germany,Hamburg,nightlife
+0,Paddy's Bar,Hamburg,53.54952816704958,9.993914678726666,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,THE MADISON Hotel Hamburg,Hamburg,53.546185357074506,9.981167389964964,Hotel,Schaarsteinweg 4,Deutschland,Germany,Hamburg,nightlife
+0,Gaststätte Dreyer,Hamburg,53.54803802369361,9.982231494568289,Gastropub,Martin-Luther-Str. 4,Deutschland,Germany,Hamburg,nightlife
+0,The Bar,Hamburg,53.55549366381162,9.991845491590142,Bar,Hotel Vier Jahreszeiten,Deutschland,Germany,Hamburg,nightlife
+0,Izakaya,Hamburg,53.54657753533055,9.99246471155254,Japanese Restaurant,Katharinenstrasse 29,Deutschland,Germany,Hamburg,nightlife
+0,Das Parlament,Hamburg,53.55007390261796,9.992970981821431,German Restaurant,Rathausmarkt 1,Deutschland,Germany,Hamburg,nightlife
+0,Gugu Bar,Hamburg,53.5473703020073,9.99674026586579,Cocktail Bar,Willy-Brandt-Str. 43,Deutschland,Germany,Hamburg,nightlife
+0,Condi Lounge,Hamburg,53.555351339740376,9.991378784179688,Lounge,Neuer Jungfernstieg 9-14,Deutschland,Germany,Hamburg,nightlife
+0,a.mora,Hamburg,53.55793689132346,10.003814374252418,Lounge,An der Alster 72,Deutschland,Germany,Hamburg,nightlife
+0,Fleetschlösschen,Hamburg,53.54441770670834,9.997967262267135,Bar,Brooktorkai 17,Deutschland,Germany,Hamburg,nightlife
+0,Laures,Hamburg,53.553917675552675,10.013528299373066,Gastropub,Steindamm,Deutschland,Germany,Hamburg,nightlife
+0,ALEX,Hamburg,53.5444664,9.975225,Café,Vorsetzen 72,Deutschland,Germany,Hamburg,nightlife
+0,Hofbräu Wirtshaus Esplanade,Hamburg,53.5577477621795,9.992048068875492,Bavarian Restaurant,Esplanade 6,Deutschland,Germany,Hamburg,nightlife
+0,Privileg,Hamburg,53.551437989236305,10.002580038654076,Nightclub,Mönkebergstr. 7,Deutschland,Germany,Hamburg,nightlife
+0,Paulaner's,Hamburg,53.55346418308647,10.008375801154623,German Restaurant,Kirchenallee 47,Deutschland,Germany,Hamburg,nightlife
+0,Casino Esplanade,Hamburg,53.55834757525646,9.989784616915077,Casino,Stephansplatz 10,Deutschland,Germany,Hamburg,nightlife
+0,MS Stubnitz,Hamburg,53.53703407043614,10.010709387969547,Boat or Ferry,Kirchenpauerkai,Deutschland,Germany,Hamburg,nightlife
+0,DaCaio,Hamburg,53.561012680253135,10.015051800238925,Italian Restaurant,Barcastr. 3,Deutschland,Germany,Hamburg,nightlife
+0,Gröninger Privatbrauerei,Hamburg,53.547205,9.99657,Brewery,Willy-Brandt-Str. 47,Deutschland,Germany,Hamburg,nightlife
+0,Bar 1910,Hamburg,53.55495501384649,10.00890920082937,Hotel Bar,Kirchenallee 34-36,Deutschland,Germany,Hamburg,nightlife
+0,Favoloso,Hamburg,53.55727606923115,9.989002346992493,Café,Dammtorstr. 25,Deutschland,Germany,Hamburg,nightlife
+0,H2O Bar,Hamburg,53.55587410657925,9.981961595069155,Bar,Dammtorwall 19,Deutschland,Germany,Hamburg,nightlife
+0,Bar Tabac,Hamburg,53.552620733150896,9.989717824984067,Bar,Große Bleichen 21,Deutschland,Germany,Hamburg,nightlife
+0,Thämers,Hamburg,53.55080184789539,9.980618852608913,German Restaurant,Großneumarkt 10,Deutschland,Germany,Hamburg,nightlife
+0,ALEX,Hamburg,53.55410512292068,9.992044506946822,Café,Jungfernstieg 54,Deutschland,Germany,Hamburg,nightlife
+0,Herr Buhbe,Hamburg,53.550879279089884,9.980843531687363,German Restaurant,,Deutschland,Germany,Hamburg,nightlife
+0,M&V Bar,Hamburg,53.55596000863462,10.00940877160969,Gay Bar,Lange Reihe 22,Deutschland,Germany,Hamburg,nightlife
+0,Kasematte 20,Hamburg,53.55949189578586,9.991874651286281,Nightclub,Alsterglacis 20,Deutschland,Germany,Hamburg,nightlife
+0,Kitty,Hamburg,53.55711848299716,9.972286663877735,Bar,Feldstr. 47,Deutschland,Germany,Hamburg,nightlife
+0,Rialto,Hamburg,53.54931019771138,9.984501833635594,Mediterranean Restaurant,Michaelisbrücke 3,Deutschland,Germany,Hamburg,nightlife
+0,Moet & Chandon Bar,Hamburg,53.553595707652484,9.990936620694686,Wine Bar,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,nightlife
+0,Café Schöne Aussichten,Hamburg,53.55847807857473,9.98577823804826,Café,Gorch-Fock-Wall 4,Deutschland,Germany,Hamburg,nightlife
+0,Zum tanzenden Einhorn,Hamburg,53.56416999353859,9.983388485659965,Cocktail Bar,Bundesstr. 6,Deutschland,Germany,Hamburg,nightlife
+0,Jupi,Hamburg,53.55506014456074,9.983969801052995,Bar,Caffamacherreihe 37-39,Deutschland,Germany,Hamburg,nightlife
+0,Kyti Voo Cafe & Bar,Hamburg,53.558264058771435,10.01244243741571,Bar,Lange Reihe 82,Deutschland,Germany,Hamburg,nightlife
+0,Campari Lounge,Hamburg,53.561095875044764,10.014862709122966,Hotel Bar,Barcastr. 3,Deutschland,Germany,Hamburg,nightlife
+0,Club 20457,Hamburg,53.54309475547625,9.998548688815772,Bar,Osakaallee 8,Deutschland,Germany,Hamburg,nightlife
+0,Zum Alten Ritter,Hamburg,53.55597001021045,10.007404335603672,Pub,20160204,Deutschland,Germany,Hamburg,nightlife
+0,Störtebeker,Hamburg,53.54149719662166,9.98355687551987,Restaurant,Platz der Deutschen Einheit 3,Deutschland,Germany,Hamburg,nightlife
+0,Daniels Company,Hamburg,53.553073301339985,10.01325026537804,Gay Bar,Kreuzweg 6,Deutschland,Germany,Hamburg,nightlife
+0,ILOHH,Hamburg,53.54859112475165,10.013340846943306,Bar,Repsoldstr. 52,Deutschland,Germany,Hamburg,nightlife
+0,Sands,Hamburg,53.55966656105084,9.989644860506747,Cocktail Bar,Dammtordamm 2,Deutschland,Germany,Hamburg,nightlife
+0,Sausalitos,Hamburg,53.54848558,10.00203216,Cocktail Bar,Fischertwiete 2,Deutschland,Germany,Hamburg,nightlife
+0,Man-Nam,Hamburg,53.556486,9.975509,Karaoke Bar,Feldstr. 60,Deutschland,Germany,Hamburg,nightlife
+0,Yoko,Hamburg,53.555619,9.981967,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Filini,Hamburg,53.56138593475063,9.987661923708815,Italian Restaurant,Marseiller Str. 2,Deutschland,Germany,Hamburg,nightlife
+0,Meyer Lansky's,Hamburg,53.55577763282695,9.987495084635597,Cocktail Bar,Gänsemarkt 36,Deutschland,Germany,Hamburg,nightlife
+0,Westin Club Lounge,Hamburg,53.54117726274896,9.98498935115781,Lounge,Platz der deutschen Einheit 2,Deutschland,Germany,Hamburg,nightlife
+0,Bodos Bootssteg,Hamburg,53.56730541671698,10.001756884745618,Café,Harvestehuder Weg 1b,Deutschland,Germany,Hamburg,nightlife
+0,Karatren,Hamburg,53.55514376385455,10.008033776520309,Hookah Bar,Lange Reihe 2,Deutschland,Germany,Hamburg,nightlife
+0,Turmbar,Hamburg,53.56218857471875,9.990097455512881,Cocktail Bar,Rothenbaumchaussee 2,Deutschland,Germany,Hamburg,nightlife
+0,Golden Cut,Hamburg,53.554999182097504,10.0068796114288,Nightclub,Holzdamm 61,Deutschland,Germany,Hamburg,nightlife
+0,Bairro Cafe-Bar-Lounge,Hamburg,53.54584713330718,9.974631448647107,Bar,Ditmar-Koel-Straße 24,Deutschland,Germany,Hamburg,nightlife
+0,S.L.U.T. Club Hamburg,Hamburg,53.55625651371782,10.014248290028432,Gay Bar,Rostocker Str. 20,Deutschland,Germany,Hamburg,nightlife
+0,Hühnerposten Eventlocation,Hamburg,53.54966417753685,10.008031310180897,Nightclub,Hühnerposten 1a,Deutschland,Germany,Hamburg,nightlife
+0,September,Hamburg,53.55652534638887,9.974783893717433,Bar,Feldstr. 60,Deutschland,Germany,Hamburg,nightlife
+0,Bourbon Street Bar,Hamburg,53.56354676585747,9.99032735824585,Hotel Bar,Rothenbaumchaussee 10,Deutschland,Germany,Hamburg,nightlife
+0,One Lounge,Hamburg,53.5568202880647,10.020190305786036,Hotel Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Down Under,Hamburg,53.56413158401439,9.984101464201311,Bar,Grindelallee 1,Deutschland,Germany,Hamburg,nightlife
+0,Bar St. Georg,Hamburg,53.55772429552703,10.011682380327079,Bar,Lange Reihe,Deutschland,Germany,Hamburg,nightlife
+0,Baumann's Bierbar,Hamburg,53.553066004588516,10.008584458903298,Bar,Kirchenallee 54,Deutschland,Germany,Hamburg,nightlife
+0,Bar Hamburg,Hamburg,53.55635764893017,10.006435072438675,Cocktail Bar,Rautenbergstr. 6-8,Deutschland,Germany,Hamburg,nightlife
+0,Apples Bar,Hamburg,53.551389,10.003071,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Generation Bar,Hamburg,53.55820648137642,10.012208705657535,Cocktail Bar,Lange Reihe 81,Deutschland,Germany,Hamburg,nightlife
+0,Hookah Lounge,Hamburg,53.552855874524994,10.013256405378264,Hookah Bar,Kreuzweg 7,Deutschland,Germany,Hamburg,nightlife
+0,BAR 11,Hamburg,53.54762,10.013999,Cocktail Bar,Amsinkstrasse 39,Deutschland,Germany,Hamburg,nightlife
+0,Opus Lounge,Hamburg,53.558561302591464,10.007649167893604,Cocktail Bar,An der Alster 52-56,Deutschland,Germany,Hamburg,nightlife
+0,UNioN,Hamburg,53.55818446389596,10.01227664396818,Cocktail Bar,Lange Reihe 81,Deutschland,Germany,Hamburg,nightlife
+0,Grüneberg,Hamburg,53.558259299148375,10.012455845922709,Café,Lange Reihe 86,Deutschland,Germany,Hamburg,nightlife
+0,Nachtasyl,Hamburg,53.5519716980625,9.998252615332603,Nightclub,Alstertor 1,Deutschland,Germany,Hamburg,nightlife
+0,Apples Restaurant,Hamburg,53.55138975420903,10.003105940307595,Restaurant,Bugenhagenstr. 8,Deutschland,Germany,Hamburg,nightlife
+0,Central Congress,Hamburg,53.55012401363864,10.004012146962118,Bar,Steinstr. 5-7,Deutschland,Germany,Hamburg,nightlife
+0,cohibar,Hamburg,53.552515355955954,10.000686774553706,Hookah Bar,Gertrudenkirchhof 10,Deutschland,Germany,Hamburg,nightlife
+0,Markthalle,Hamburg,53.54901520977141,10.006477719188359,Music Venue,Klosterwall 11,Deutschland,Germany,Hamburg,nightlife
+0,Die Bank,Hamburg,53.55350146971234,9.98722585588909,Restaurant,Hohe Bleichen 17,Deutschland,Germany,Hamburg,nightlife
+0,Brauhaus Joh. Albrecht,Hamburg,53.55053185163435,9.989800032975113,Brewery,Adolphsbrücke 7,Deutschland,Germany,Hamburg,nightlife
+0,Tipsy Baker Bar,Hamburg,53.558003772071494,9.989643983040544,Cocktail Bar,Esplanade 29,Deutschland,Germany,Hamburg,nightlife
+0,Boilerman Bar,Hamburg,53.54245459131936,9.998270324777048,Bar,Osakaallee 12,Deutschland,Germany,Hamburg,nightlife
+0,Hans im Glück - Burgergrill,Hamburg,53.548597,9.992385,Burger Joint,"Börsenbrücke 10, Trostbrücke 4-6",Deutschland,Germany,Hamburg,nightlife
+0,Irish Pub in the Fleetenkieker,Hamburg,53.54868564944223,9.992608090274839,Irish Pub,Börsenbrücke 10,Deutschland,Germany,Hamburg,nightlife
+0,Hunt Coffee,,53.555218,9.990553,Coffee Shop,,Deutschland,Germany,Hamburg,nightlife
+0,Brooklyn Burger Bar,Hamburg,53.54866568794967,9.996709782288885,Burger Joint,Alter Fischmarkt 3,Deutschland,Germany,Hamburg,nightlife
+0,[m]eatery,Hamburg,53.55663885227333,9.986837671491438,Steakhouse,Drehbahn 49,Deutschland,Germany,Hamburg,nightlife
+0,Oberhafen-Kantine,Hamburg,53.5445693351864,10.006921385315067,Gastropub,Stockmeyerstr. 39,Deutschland,Germany,Hamburg,nightlife
+0,Klimperkiste,Hamburg,53.55771,9.9905615,Pub,Esplanade 18,Deutschland,Germany,Hamburg,nightlife
+0,Seven Heads Bar,Hamburg,53.54950013433715,9.987881183624268,Hotel Bar,Alter Wall 40,Deutschland,Germany,Hamburg,nightlife
+0,barca - an der Alster,Hamburg,53.55851356439605,10.005615648642788,Restaurant,An der Alster 67a,Deutschland,Germany,Hamburg,nightlife
+0,Ruby Lotti Hotel & Bar,Hamburg,53.550784869421484,9.98522318935248,Hotel,Düsternstraße 1,Deutschland,Germany,Hamburg,nightlife
+0,Nagel,Hamburg,53.5527240668893,10.0087611941861,German Restaurant,Kirchenallee 57,Deutschland,Germany,Hamburg,nightlife
+0,Erste Liebe,Hamburg,53.549358818974824,9.985087456996364,Café,Michaelisbrücke 3,Deutschland,Germany,Hamburg,nightlife
+0,Veuve Clicquot,Hamburg,53.55293926695286,9.991467358334763,Wine Bar,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,nightlife
+0,Atlantic Bar,Hamburg,53.55715552979616,10.004598471348444,Hotel Bar,An der Alster 72-79,Deutschland,Germany,Hamburg,nightlife
+0,Bar Noir,,53.551442,9.986539,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Heimat Küche + Bar,Hamburg,53.541425937394614,9.998990734918541,Bistro,Überseeallee 5,Deutschland,Germany,Hamburg,nightlife
+0,Neumann's Bistro & Weinbar,Hamburg,53.55904999481806,10.013027938019475,Wine Bar,Lange Reihe 101,Deutschland,Germany,Hamburg,nightlife
+0,Frau Möller,Hamburg,53.55885232822514,10.013241684062628,Pub,Lange Reihe 96,Deutschland,Germany,Hamburg,nightlife
+0,Generator Lounge,Hamburg,53.55275959796685,10.009235794755421,Hotel Bar,Steintorplatz 3,Deutschland,Germany,Hamburg,nightlife
+0,CIU',Hamburg,53.55423278008723,9.998982581357064,Cocktail Bar,Ballindamm 14/15,Deutschland,Germany,Hamburg,nightlife
+0,Bar Oorlam,Hamburg,53.553392,9.979864,Beer Bar,Kohlhöfen 29,Deutschland,Germany,Hamburg,nightlife
+0,Paddy's Bar,Hamburg,53.54952816704958,9.993914678726666,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,THE MADISON Hotel Hamburg,Hamburg,53.546185357074506,9.981167389964964,Hotel,Schaarsteinweg 4,Deutschland,Germany,Hamburg,nightlife
+0,Gaststätte Dreyer,Hamburg,53.54803802369361,9.982231494568289,Gastropub,Martin-Luther-Str. 4,Deutschland,Germany,Hamburg,nightlife
+0,The Bar,Hamburg,53.55549366381162,9.991845491590142,Bar,Hotel Vier Jahreszeiten,Deutschland,Germany,Hamburg,nightlife
+0,Izakaya,Hamburg,53.54657753533055,9.99246471155254,Japanese Restaurant,Katharinenstrasse 29,Deutschland,Germany,Hamburg,nightlife
+0,Das Parlament,Hamburg,53.55007390261796,9.992970981821431,German Restaurant,Rathausmarkt 1,Deutschland,Germany,Hamburg,nightlife
+0,Gugu Bar,Hamburg,53.5473703020073,9.99674026586579,Cocktail Bar,Willy-Brandt-Str. 43,Deutschland,Germany,Hamburg,nightlife
+0,Condi Lounge,Hamburg,53.555351339740376,9.991378784179688,Lounge,Neuer Jungfernstieg 9-14,Deutschland,Germany,Hamburg,nightlife
+0,a.mora,Hamburg,53.55793689132346,10.003814374252418,Lounge,An der Alster 72,Deutschland,Germany,Hamburg,nightlife
+0,Fleetschlösschen,Hamburg,53.54441770670834,9.997967262267135,Bar,Brooktorkai 17,Deutschland,Germany,Hamburg,nightlife
+0,Laures,Hamburg,53.553917675552675,10.013528299373066,Gastropub,Steindamm,Deutschland,Germany,Hamburg,nightlife
+0,ALEX,Hamburg,53.5444664,9.975225,Café,Vorsetzen 72,Deutschland,Germany,Hamburg,nightlife
+0,Hofbräu Wirtshaus Esplanade,Hamburg,53.5577477621795,9.992048068875492,Bavarian Restaurant,Esplanade 6,Deutschland,Germany,Hamburg,nightlife
+0,Privileg,Hamburg,53.551437989236305,10.002580038654076,Nightclub,Mönkebergstr. 7,Deutschland,Germany,Hamburg,nightlife
+0,Paulaner's,Hamburg,53.55346418308647,10.008375801154623,German Restaurant,Kirchenallee 47,Deutschland,Germany,Hamburg,nightlife
+0,Casino Esplanade,Hamburg,53.55834757525646,9.989784616915077,Casino,Stephansplatz 10,Deutschland,Germany,Hamburg,nightlife
+0,MS Stubnitz,Hamburg,53.53703407043614,10.010709387969547,Boat or Ferry,Kirchenpauerkai,Deutschland,Germany,Hamburg,nightlife
+0,DaCaio,Hamburg,53.561012680253135,10.015051800238925,Italian Restaurant,Barcastr. 3,Deutschland,Germany,Hamburg,nightlife
+0,Gröninger Privatbrauerei,Hamburg,53.547205,9.99657,Brewery,Willy-Brandt-Str. 47,Deutschland,Germany,Hamburg,nightlife
+0,Bar 1910,Hamburg,53.55495501384649,10.00890920082937,Hotel Bar,Kirchenallee 34-36,Deutschland,Germany,Hamburg,nightlife
+0,Favoloso,Hamburg,53.55727606923115,9.989002346992493,Café,Dammtorstr. 25,Deutschland,Germany,Hamburg,nightlife
+0,H2O Bar,Hamburg,53.55587410657925,9.981961595069155,Bar,Dammtorwall 19,Deutschland,Germany,Hamburg,nightlife
+0,Bar Tabac,Hamburg,53.552620733150896,9.989717824984067,Bar,Große Bleichen 21,Deutschland,Germany,Hamburg,nightlife
+0,Thämers,Hamburg,53.55080184789539,9.980618852608913,German Restaurant,Großneumarkt 10,Deutschland,Germany,Hamburg,nightlife
+0,ALEX,Hamburg,53.55410512292068,9.992044506946822,Café,Jungfernstieg 54,Deutschland,Germany,Hamburg,nightlife
+0,Herr Buhbe,Hamburg,53.550879279089884,9.980843531687363,German Restaurant,,Deutschland,Germany,Hamburg,nightlife
+0,M&V Bar,Hamburg,53.55596000863462,10.00940877160969,Gay Bar,Lange Reihe 22,Deutschland,Germany,Hamburg,nightlife
+0,Kasematte 20,Hamburg,53.55949189578586,9.991874651286281,Nightclub,Alsterglacis 20,Deutschland,Germany,Hamburg,nightlife
+0,Kitty,Hamburg,53.55711848299716,9.972286663877735,Bar,Feldstr. 47,Deutschland,Germany,Hamburg,nightlife
+0,Rialto,Hamburg,53.54931019771138,9.984501833635594,Mediterranean Restaurant,Michaelisbrücke 3,Deutschland,Germany,Hamburg,nightlife
+0,Moet & Chandon Bar,Hamburg,53.553595707652484,9.990936620694686,Wine Bar,Jungfernstieg 16-20,Deutschland,Germany,Hamburg,nightlife
+0,Café Schöne Aussichten,Hamburg,53.55847807857473,9.98577823804826,Café,Gorch-Fock-Wall 4,Deutschland,Germany,Hamburg,nightlife
+0,Zum tanzenden Einhorn,Hamburg,53.56416999353859,9.983388485659965,Cocktail Bar,Bundesstr. 6,Deutschland,Germany,Hamburg,nightlife
+0,Jupi,Hamburg,53.55506014456074,9.983969801052995,Bar,Caffamacherreihe 37-39,Deutschland,Germany,Hamburg,nightlife
+0,Kyti Voo Cafe & Bar,Hamburg,53.558264058771435,10.01244243741571,Bar,Lange Reihe 82,Deutschland,Germany,Hamburg,nightlife
+0,Campari Lounge,Hamburg,53.561095875044764,10.014862709122966,Hotel Bar,Barcastr. 3,Deutschland,Germany,Hamburg,nightlife
+0,Club 20457,Hamburg,53.54309475547625,9.998548688815772,Bar,Osakaallee 8,Deutschland,Germany,Hamburg,nightlife
+0,Zum Alten Ritter,Hamburg,53.55597001021045,10.007404335603672,Pub,20160204,Deutschland,Germany,Hamburg,nightlife
+0,Störtebeker,Hamburg,53.54149719662166,9.98355687551987,Restaurant,Platz der Deutschen Einheit 3,Deutschland,Germany,Hamburg,nightlife
+0,Daniels Company,Hamburg,53.553073301339985,10.01325026537804,Gay Bar,Kreuzweg 6,Deutschland,Germany,Hamburg,nightlife
+0,ILOHH,Hamburg,53.54859112475165,10.013340846943306,Bar,Repsoldstr. 52,Deutschland,Germany,Hamburg,nightlife
+0,Sands,Hamburg,53.55966656105084,9.989644860506747,Cocktail Bar,Dammtordamm 2,Deutschland,Germany,Hamburg,nightlife
+0,Sausalitos,Hamburg,53.54848558,10.00203216,Cocktail Bar,Fischertwiete 2,Deutschland,Germany,Hamburg,nightlife
+0,Man-Nam,Hamburg,53.556486,9.975509,Karaoke Bar,Feldstr. 60,Deutschland,Germany,Hamburg,nightlife
+0,Yoko,Hamburg,53.555619,9.981967,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Filini,Hamburg,53.56138593475063,9.987661923708815,Italian Restaurant,Marseiller Str. 2,Deutschland,Germany,Hamburg,nightlife
+0,Meyer Lansky's,Hamburg,53.55577763282695,9.987495084635597,Cocktail Bar,Gänsemarkt 36,Deutschland,Germany,Hamburg,nightlife
+0,Westin Club Lounge,Hamburg,53.54117726274896,9.98498935115781,Lounge,Platz der deutschen Einheit 2,Deutschland,Germany,Hamburg,nightlife
+0,Bodos Bootssteg,Hamburg,53.56730541671698,10.001756884745618,Café,Harvestehuder Weg 1b,Deutschland,Germany,Hamburg,nightlife
+0,Karatren,Hamburg,53.55514376385455,10.008033776520309,Hookah Bar,Lange Reihe 2,Deutschland,Germany,Hamburg,nightlife
+0,Turmbar,Hamburg,53.56218857471875,9.990097455512881,Cocktail Bar,Rothenbaumchaussee 2,Deutschland,Germany,Hamburg,nightlife
+0,Golden Cut,Hamburg,53.554999182097504,10.0068796114288,Nightclub,Holzdamm 61,Deutschland,Germany,Hamburg,nightlife
+0,Bairro Cafe-Bar-Lounge,Hamburg,53.54584713330718,9.974631448647107,Bar,Ditmar-Koel-Straße 24,Deutschland,Germany,Hamburg,nightlife
+0,S.L.U.T. Club Hamburg,Hamburg,53.55625651371782,10.014248290028432,Gay Bar,Rostocker Str. 20,Deutschland,Germany,Hamburg,nightlife
+0,Hühnerposten Eventlocation,Hamburg,53.54966417753685,10.008031310180897,Nightclub,Hühnerposten 1a,Deutschland,Germany,Hamburg,nightlife
+0,September,Hamburg,53.55652534638887,9.974783893717433,Bar,Feldstr. 60,Deutschland,Germany,Hamburg,nightlife
+0,Bourbon Street Bar,Hamburg,53.56354676585747,9.99032735824585,Hotel Bar,Rothenbaumchaussee 10,Deutschland,Germany,Hamburg,nightlife
+0,One Lounge,Hamburg,53.5568202880647,10.020190305786036,Hotel Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Down Under,Hamburg,53.56413158401439,9.984101464201311,Bar,Grindelallee 1,Deutschland,Germany,Hamburg,nightlife
+0,Bar St. Georg,Hamburg,53.55772429552703,10.011682380327079,Bar,Lange Reihe,Deutschland,Germany,Hamburg,nightlife
+0,Baumann's Bierbar,Hamburg,53.553066004588516,10.008584458903298,Bar,Kirchenallee 54,Deutschland,Germany,Hamburg,nightlife
+0,Bar Hamburg,Hamburg,53.55635764893017,10.006435072438675,Cocktail Bar,Rautenbergstr. 6-8,Deutschland,Germany,Hamburg,nightlife
+0,Apples Bar,Hamburg,53.551389,10.003071,Bar,,Deutschland,Germany,Hamburg,nightlife
+0,Generation Bar,Hamburg,53.55820648137642,10.012208705657535,Cocktail Bar,Lange Reihe 81,Deutschland,Germany,Hamburg,nightlife
+0,Hookah Lounge,Hamburg,53.552855874524994,10.013256405378264,Hookah Bar,Kreuzweg 7,Deutschland,Germany,Hamburg,nightlife
+0,BAR 11,Hamburg,53.54762,10.013999,Cocktail Bar,Amsinkstrasse 39,Deutschland,Germany,Hamburg,nightlife
+0,Opus Lounge,Hamburg,53.558561302591464,10.007649167893604,Cocktail Bar,An der Alster 52-56,Deutschland,Germany,Hamburg,nightlife
+0,UNioN,Hamburg,53.55818446389596,10.01227664396818,Cocktail Bar,Lange Reihe 81,Deutschland,Germany,Hamburg,nightlife
+0,Grüneberg,Hamburg,53.558259299148375,10.012455845922709,Café,Lange Reihe 86,Deutschland,Germany,Hamburg,nightlife
+0,Bistro Kleinod,Hamburg,53.559457,10.012175,Bistro,,Deutschland,Germany,Hamburg,nightlife
