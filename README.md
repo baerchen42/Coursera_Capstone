@@ -1,3 +1,5 @@
+#### Combine different data analysis method to find out the similarity of cities, based on the cities functionality. The data based on foursquare opensource
+
 # 1 Introduction 
 Immigration is the international movement of people to a destination country of which they are not natives or where they do not possess citizenship in order to settle or reside there. As of 2015, the number of international migrants has reached 244 million worldwide. The reason of that could be financial(e.g. wage rates), personal reasons (e.g. family reunification, transnational marriage). 
 
